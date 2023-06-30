@@ -1,0 +1,32 @@
+name: sick readme
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  cinco:
+    name: cinco runtime...
+    runs-on: ubuntu-latest
+    steps:
+      - name: check it out
+        uses: actions/checkout@v2
+
+      - name: do the do do do do do lol
+        env:
+          GITHUB_TOKEN: ${{ secrets.LINO_TOKEN }}
+        run: ./readmeScript.sh
+
+      - name: add the things
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "$(git --no-pager log --format=format:'%an' -n 1)"
+          git config user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
+          git pull --ff-only && \
+          git diff --quiet --exit-code || git commit -am "great job" && \
+          git push
