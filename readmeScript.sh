@@ -3,7 +3,7 @@
 # sending love to https://github.com/mshick :) <3
 readonly GITHUB_TOKEN=${GITHUB_TOKEN}
 readonly FEED_URL=${FEED_URL:-https://github.blog/feed/}
-readonly TIMEZONE=${TIMEZONE:-America/New_York}
+readonly TIMEZONE=${TIMEZONE:-Europe/London}
 
 readonly pushes_graphql="
 {
