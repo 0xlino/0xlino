@@ -7,6 +7,13 @@ ____ ____ ____ ____ _  _ ___    ___  _  _ ____ _  _ ____ ____
 ```
 
 <!-- PUSHES:START -->
+
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-06-30T11:16-04:00</kbd></samp>
+- <samp>[action-pull-request-another-repo](https://github.com/0xlino/action-pull-request-another-repo) <kbd>2023-06-24T09:27-04:00</kbd></samp>
+- <samp>[typescript-actions](https://github.com/0xlino/typescript-actions) <kbd>2023-05-29T13:07-04:00</kbd></samp>
+- <samp>[trigger-workflow-and-wait](https://github.com/0xlino/trigger-workflow-and-wait) <kbd>2023-04-11T11:11-04:00</kbd></samp>
+- <samp>[firebase-deploy](https://github.com/0xlino/firebase-deploy) <kbd>2023-03-16T15:57-04:00</kbd></samp>
+
 <!-- PUSHES:END -->
 
 ```
@@ -18,4 +25,16 @@ ____ ____ ____ ____ _  _ ___    ___  ____ ____ ___ ____
 > Just an example of some GitHub blog posts... (for testing)
 
 <!-- POSTS:START -->
+
+- <samp>[GitHub Enterprise Server 3.9 is now generally available](https://github.blog/2023-06-29-github-enterprise-server-3-9-is-now-generally-available/) <kbd>2023-06-29T12:45-04:00</kbd></samp>
+- <samp>[The economic impact of the AI-powered developer lifecycle and lessons from GitHub Copilot](https://github.blog/2023-06-27-the-economic-impact-of-the-ai-powered-developer-lifecycle-and-lessons-from-github-copilot/) <kbd>2023-06-27T12:20-04:00</kbd></samp>
+- <samp>[New tool to secure your GitHub Actions](https://github.blog/2023-06-26-new-tool-to-secure-your-github-actions/) <kbd>2023-06-26T12:36-04:00</kbd></samp>
+- <samp>[Open Source challenge results from Gamedev.js Jam 2023](https://github.blog/2023-06-21-gamedev-js-2023/) <kbd>2023-06-21T18:20-04:00</kbd></samp>
+- <samp>[Bridging code and community](https://github.blog/2023-06-21-bridging-code-and-community/) <kbd>2023-06-21T16:44-04:00</kbd></samp>
+- <samp>[Crafting a better, faster code view](https://github.blog/2023-06-21-crafting-a-better-faster-code-view/) <kbd>2023-06-21T13:35-04:00</kbd></samp>
+- <samp>[How to use GitHub Copilot: Prompts, tips, and use cases](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/) <kbd>2023-06-20T12:00-04:00</kbd></samp>
+- <samp>[Developers need the right to challenge junk patents](https://github.blog/2023-06-19-developers-need-the-right-to-challenge-junk-patents/) <kbd>2023-06-19T15:34-04:00</kbd></samp>
+- <samp>[Exploring GitHub with the redesigned navigation, now in public beta](https://github.blog/2023-06-15-exploring-github-with-the-redesigned-navigation-now-in-public-beta/) <kbd>2023-06-15T12:20-04:00</kbd></samp>
+- <samp>[CodeQL zero to hero part 2: getting started with CodeQL](https://github.blog/2023-06-15-codeql-zero-to-hero-part-2-getting-started-with-codeql/) <kbd>2023-06-15T08:53-04:00</kbd></samp>
+
 <!-- POSTS:END -->
