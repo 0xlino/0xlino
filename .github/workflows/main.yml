@@ -10,7 +10,7 @@ on:
 
 jobs:
   cinco:
-    name: cinco runtime...
+    name: do the do do do do :) 
     runs-on: ubuntu-latest
     steps:
       - name: check it out
