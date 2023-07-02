@@ -15,6 +15,10 @@ jobs:
     steps:
       - name: check it out
         uses: actions/checkout@v2
+        
+      - name: Set timestamp
+        id: timestamp
+        run: echo "::set-output name=timestamp::$(date +'%Y-%m-%d %H:%M:%S')"
 
       - name: do the do do do do do lol
         env:
@@ -28,5 +32,5 @@ jobs:
           git config user.name "$(git --no-pager log --format=format:'%an' -n 1)"
           git config user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
           git pull --ff-only && \
-          git diff --quiet --exit-code || git commit -am "great job" && \
+          git diff --quiet --exit-code || git commit -am "${GITHUB_SHA} - ${{ steps.timestamp.outputs.timestamp }}" && \
           git push
