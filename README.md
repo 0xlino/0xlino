@@ -32,6 +32,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[Game Bytes · June 2023](https://github.blog/2023-06-30-game-bytes-june-2023/) <kbd>2023-06-30T18:26+01:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.9 is now generally available](https://github.blog/2023-06-29-github-enterprise-server-3-9-is-now-generally-available/) <kbd>2023-06-29T17:45+01:00</kbd></samp>
 - <samp>[The economic impact of the AI-powered developer lifecycle and lessons from GitHub Copilot](https://github.blog/2023-06-27-the-economic-impact-of-the-ai-powered-developer-lifecycle-and-lessons-from-github-copilot/) <kbd>2023-06-27T17:20+01:00</kbd></samp>
 - <samp>[New tool to secure your GitHub Actions](https://github.blog/2023-06-26-new-tool-to-secure-your-github-actions/) <kbd>2023-06-26T17:36+01:00</kbd></samp>
@@ -41,6 +42,5 @@
 - <samp>[How to use GitHub Copilot: Prompts, tips, and use cases](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/) <kbd>2023-06-20T17:00+01:00</kbd></samp>
 - <samp>[Developers need the right to challenge junk patents](https://github.blog/2023-06-19-developers-need-the-right-to-challenge-junk-patents/) <kbd>2023-06-19T20:34+01:00</kbd></samp>
 - <samp>[Exploring GitHub with the redesigned navigation, now in public beta](https://github.blog/2023-06-15-exploring-github-with-the-redesigned-navigation-now-in-public-beta/) <kbd>2023-06-15T17:20+01:00</kbd></samp>
-- <samp>[CodeQL zero to hero part 2: getting started with CodeQL](https://github.blog/2023-06-15-codeql-zero-to-hero-part-2-getting-started-with-codeql/) <kbd>2023-06-15T13:53+01:00</kbd></samp>
 
 <!-- POSTS:END -->
