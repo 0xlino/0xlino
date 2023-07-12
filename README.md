@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-07-12T15:54+01:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-07-12T16:00+01:00</kbd></samp>
 - <samp>[action-pull-request-another-repo](https://github.com/0xlino/action-pull-request-another-repo) <kbd>2023-07-12T00:49+01:00</kbd></samp>
 - <samp>[learninpublic](https://github.com/0xlino/learninpublic) <kbd>2023-07-07T01:15+01:00</kbd></samp>
 - <samp>[typescript-actions](https://github.com/0xlino/typescript-actions) <kbd>2023-05-29T18:07+01:00</kbd></samp>
@@ -34,6 +34,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[Introducing passwordless authentication on GitHub.com](https://github.blog/2023-07-12-introducing-passwordless-authentication-on-github-com/) <kbd>2023-07-12T16:02+01:00</kbd></samp>
 - <samp>[GitHub CLI project command is now generally available!](https://github.blog/2023-07-11-github-cli-project-command-is-now-generally-available/) <kbd>2023-07-11T22:52+01:00</kbd></samp>
 - <samp>[Demonstrating end-to-end traceability with pull requests](https://github.blog/2023-07-11-demonstrating-end-to-end-traceability-with-pull-requests/) <kbd>2023-07-11T17:52+01:00</kbd></samp>
 - <samp>[Accessibility considerations behind code search and code view](https://github.blog/2023-07-06-accessibility-considerations-behind-code-search-and-code-view/) <kbd>2023-07-06T20:00+01:00</kbd></samp>
@@ -43,6 +44,5 @@
 - <samp>[Leading your platform migration with developer experience](https://github.blog/2023-07-03-leading-your-platform-migration-with-developer-experience/) <kbd>2023-07-04T00:00+01:00</kbd></samp>
 - <samp>[Game Bytes · June 2023](https://github.blog/2023-06-30-game-bytes-june-2023/) <kbd>2023-06-30T18:26+01:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.9 is now generally available](https://github.blog/2023-06-29-github-enterprise-server-3-9-is-now-generally-available/) <kbd>2023-06-29T17:45+01:00</kbd></samp>
-- <samp>[The economic impact of the AI-powered developer lifecycle and lessons from GitHub Copilot](https://github.blog/2023-06-27-the-economic-impact-of-the-ai-powered-developer-lifecycle-and-lessons-from-github-copilot/) <kbd>2023-06-27T17:20+01:00</kbd></samp>
 
 <!-- POSTS:END -->
