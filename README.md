@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-07-18T15:36+01:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-07-18T15:42+01:00</kbd></samp>
 - <samp>[learninpublic](https://github.com/0xlino/learninpublic) <kbd>2023-07-18T00:27+01:00</kbd></samp>
 - <samp>[action-pull-request-another-repo](https://github.com/0xlino/action-pull-request-another-repo) <kbd>2023-07-12T00:49+01:00</kbd></samp>
 - <samp>[typescript-actions](https://github.com/0xlino/typescript-actions) <kbd>2023-05-29T18:07+01:00</kbd></samp>
@@ -34,6 +34,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[Security alert: social engineering campaign targets technology industry employees](https://github.blog/2023-07-18-security-alert-social-engineering-campaign-targets-technology-industry-employees/) <kbd>2023-07-18T15:43+01:00</kbd></samp>
 - <samp>[A developer&#8217;s guide to prompt engineering and LLMs](https://github.blog/2023-07-17-prompt-engineering-guide-generative-ai-llms/) <kbd>2023-07-17T15:27+01:00</kbd></samp>
 - <samp>[Release Radar · Spring 2023 Edition](https://github.blog/2023-07-13-release-radar-spring-23/) <kbd>2023-07-14T01:58+01:00</kbd></samp>
 - <samp>[(De)coding conventions](https://github.blog/2023-07-13-decoding-conventions/) <kbd>2023-07-13T19:02+01:00</kbd></samp>
@@ -43,6 +44,5 @@
 - <samp>[GitHub merge queue is generally available](https://github.blog/2023-07-12-github-merge-queue-is-generally-available/) <kbd>2023-07-12T16:12+01:00</kbd></samp>
 - <samp>[Introducing passwordless authentication on GitHub.com](https://github.blog/2023-07-12-introducing-passwordless-authentication-on-github-com/) <kbd>2023-07-12T16:02+01:00</kbd></samp>
 - <samp>[GitHub CLI project command is now generally available!](https://github.blog/2023-07-11-github-cli-project-command-is-now-generally-available/) <kbd>2023-07-11T22:52+01:00</kbd></samp>
-- <samp>[Demonstrating end-to-end traceability with pull requests](https://github.blog/2023-07-11-demonstrating-end-to-end-traceability-with-pull-requests/) <kbd>2023-07-11T17:52+01:00</kbd></samp>
 
 <!-- POSTS:END -->
