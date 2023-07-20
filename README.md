@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-07-20T16:34+01:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-07-20T16:40+01:00</kbd></samp>
 - <samp>[learninpublic](https://github.com/0xlino/learninpublic) <kbd>2023-07-18T00:27+01:00</kbd></samp>
 - <samp>[action-pull-request-another-repo](https://github.com/0xlino/action-pull-request-another-repo) <kbd>2023-07-12T00:49+01:00</kbd></samp>
 - <samp>[typescript-actions](https://github.com/0xlino/typescript-actions) <kbd>2023-05-29T18:07+01:00</kbd></samp>
@@ -34,6 +34,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Copilot Chat beta now available for every organization](https://github.blog/2023-07-20-github-copilot-chat-beta-now-available-for-every-organization/) <kbd>2023-07-20T16:45+01:00</kbd></samp>
 - <samp>[Exploring developer happiness, inclusion, and productivity at GitHub’s Design Conference](https://github.blog/2023-07-19-exploring-developer-happiness-inclusion-and-productivity-at-githubs-design-conference/) <kbd>2023-07-19T18:00+01:00</kbd></samp>
 - <samp>[Metrics for issues, pull requests, and discussions](https://github.blog/2023-07-19-metrics-for-issues-pull-requests-and-discussions/) <kbd>2023-07-19T17:00+01:00</kbd></samp>
 - <samp>[Security alert: social engineering campaign targets technology industry employees](https://github.blog/2023-07-18-security-alert-social-engineering-campaign-targets-technology-industry-employees/) <kbd>2023-07-18T15:43+01:00</kbd></samp>
@@ -43,6 +44,5 @@
 - <samp>[Moving from a product to a service mindset](https://github.blog/2023-07-13-moving-from-a-product-to-a-service-mindset/) <kbd>2023-07-13T14:44+01:00</kbd></samp>
 - <samp>[GitHub Availability Report: June 2023](https://github.blog/2023-07-12-github-availability-report-june-2023/) <kbd>2023-07-12T21:00+01:00</kbd></samp>
 - <samp>[No cyber resilience without open source sustainability](https://github.blog/2023-07-12-no-cyber-resilience-without-open-source-sustainability/) <kbd>2023-07-12T19:36+01:00</kbd></samp>
-- <samp>[GitHub merge queue is generally available](https://github.blog/2023-07-12-github-merge-queue-is-generally-available/) <kbd>2023-07-12T16:12+01:00</kbd></samp>
 
 <!-- POSTS:END -->
