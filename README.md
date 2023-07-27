@@ -28,6 +28,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[Scaling merge-ort across GitHub](https://github.blog/2023-07-27-scaling-merge-ort-across-github/) <kbd>2023-07-27T17:00+01:00</kbd></samp>
 - <samp>[How to get AI regulation right for open source](https://github.blog/2023-07-26-how-to-get-ai-regulation-right-for-open-source/) <kbd>2023-07-26T08:01+01:00</kbd></samp>
 - <samp>[Game Bytes · July 2023](https://github.blog/2023-07-25-game-bytes-july-2023/) <kbd>2023-07-25T20:00+01:00</kbd></samp>
 - <samp>[How to build a GPT-3 App with Nextjs, React, and GitHub Copilot](https://github.blog/2023-07-25-how-to-build-a-gpt-3-app-with-nextjs-react-and-github-copilot/) <kbd>2023-07-25T18:00+01:00</kbd></samp>
@@ -37,6 +38,5 @@
 - <samp>[Exploring developer happiness, inclusion, and productivity at GitHub’s Design Conference](https://github.blog/2023-07-19-exploring-developer-happiness-inclusion-and-productivity-at-githubs-design-conference/) <kbd>2023-07-19T18:00+01:00</kbd></samp>
 - <samp>[Metrics for issues, pull requests, and discussions](https://github.blog/2023-07-19-metrics-for-issues-pull-requests-and-discussions/) <kbd>2023-07-19T17:00+01:00</kbd></samp>
 - <samp>[Security alert: social engineering campaign targets technology industry employees](https://github.blog/2023-07-18-security-alert-social-engineering-campaign-targets-technology-industry-employees/) <kbd>2023-07-18T15:43+01:00</kbd></samp>
-- <samp>[A developer&#8217;s guide to prompt engineering and LLMs](https://github.blog/2023-07-17-prompt-engineering-guide-generative-ai-llms/) <kbd>2023-07-17T15:27+01:00</kbd></samp>
 
 <!-- POSTS:END -->
