@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-08-02T13:07+01:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-08-02T13:19+01:00</kbd></samp>
 - <samp>[learninpublic](https://github.com/0xlino/learninpublic) <kbd>2023-07-18T00:27+01:00</kbd></samp>
 - <samp>[action-pull-request-another-repo](https://github.com/0xlino/action-pull-request-another-repo) <kbd>2023-07-12T00:49+01:00</kbd></samp>
 - <samp>[typescript-actions](https://github.com/0xlino/typescript-actions) <kbd>2023-05-29T18:07+01:00</kbd></samp>
@@ -34,6 +34,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[How we build containerized services at GitHub using GitHub](https://github.blog/2023-08-02-how-we-build-containerized-services-at-github-using-github/) <kbd>2023-08-02T13:31+01:00</kbd></samp>
 - <samp>[Closing vulnerabilities in Decidim, a Ruby-based citizen participation platform](https://github.blog/2023-07-28-closing-vulnerabilities-in-decidim-a-ruby-based-citizen-participation-platform/) <kbd>2023-07-28T14:00+01:00</kbd></samp>
 - <samp>[Scaling merge-ort across GitHub](https://github.blog/2023-07-27-scaling-merge-ort-across-github/) <kbd>2023-07-27T17:00+01:00</kbd></samp>
 - <samp>[How to get AI regulation right for open source](https://github.blog/2023-07-26-how-to-get-ai-regulation-right-for-open-source/) <kbd>2023-07-26T08:01+01:00</kbd></samp>
@@ -43,6 +44,5 @@
 - <samp>[GitHub Repository Rules are now generally available](https://github.blog/2023-07-24-github-repository-rules-are-now-generally-available/) <kbd>2023-07-24T17:01+01:00</kbd></samp>
 - <samp>[GitHub Copilot Chat beta now available for every organization](https://github.blog/2023-07-20-github-copilot-chat-beta-now-available-for-every-organization/) <kbd>2023-07-20T16:45+01:00</kbd></samp>
 - <samp>[Exploring developer happiness, inclusion, and productivity at GitHub’s Design Conference](https://github.blog/2023-07-19-exploring-developer-happiness-inclusion-and-productivity-at-githubs-design-conference/) <kbd>2023-07-19T18:00+01:00</kbd></samp>
-- <samp>[Metrics for issues, pull requests, and discussions](https://github.blog/2023-07-19-metrics-for-issues-pull-requests-and-discussions/) <kbd>2023-07-19T17:00+01:00</kbd></samp>
 
 <!-- POSTS:END -->
