@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-08-03T16:50+01:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-08-03T16:56+01:00</kbd></samp>
 - <samp>[learninpublic](https://github.com/0xlino/learninpublic) <kbd>2023-07-18T00:27+01:00</kbd></samp>
 - <samp>[action-pull-request-another-repo](https://github.com/0xlino/action-pull-request-another-repo) <kbd>2023-07-12T00:49+01:00</kbd></samp>
 - <samp>[typescript-actions](https://github.com/0xlino/typescript-actions) <kbd>2023-05-29T18:07+01:00</kbd></samp>
@@ -34,6 +34,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[Introducing code referencing for GitHub Copilot](https://github.blog/2023-08-03-introducing-code-referencing-for-github-copilot/) <kbd>2023-08-03T17:01+01:00</kbd></samp>
 - <samp>[Best practices for organizations and teams using GitHub Enterprise Cloud](https://github.blog/2023-08-02-best-practices-for-organizations-and-teams-using-github-enterprise-cloud/) <kbd>2023-08-02T20:55+01:00</kbd></samp>
 - <samp>[How we build containerized services at GitHub using GitHub](https://github.blog/2023-08-02-how-we-build-containerized-services-at-github-using-github/) <kbd>2023-08-02T13:31+01:00</kbd></samp>
 - <samp>[Closing vulnerabilities in Decidim, a Ruby-based citizen participation platform](https://github.blog/2023-07-28-closing-vulnerabilities-in-decidim-a-ruby-based-citizen-participation-platform/) <kbd>2023-07-28T14:00+01:00</kbd></samp>
@@ -43,6 +44,5 @@
 - <samp>[How to build a GPT-3 App with Nextjs, React, and GitHub Copilot](https://github.blog/2023-07-25-how-to-build-a-gpt-3-app-with-nextjs-react-and-github-copilot/) <kbd>2023-07-25T18:00+01:00</kbd></samp>
 - <samp>[How to responsibly adopt GitHub Copilot with the GitHub Copilot Trust Center](https://github.blog/2023-07-25-how-to-responsibly-adopt-github-copilot-with-the-github-copilot-trust-center/) <kbd>2023-07-25T17:00+01:00</kbd></samp>
 - <samp>[GitHub Repository Rules are now generally available](https://github.blog/2023-07-24-github-repository-rules-are-now-generally-available/) <kbd>2023-07-24T17:01+01:00</kbd></samp>
-- <samp>[GitHub Copilot Chat beta now available for every organization](https://github.blog/2023-07-20-github-copilot-chat-beta-now-available-for-every-organization/) <kbd>2023-07-20T16:45+01:00</kbd></samp>
 
 <!-- POSTS:END -->
