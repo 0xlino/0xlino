@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-08-04T16:52+01:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-08-04T16:58+01:00</kbd></samp>
 - <samp>[learninpublic](https://github.com/0xlino/learninpublic) <kbd>2023-07-18T00:27+01:00</kbd></samp>
 - <samp>[action-pull-request-another-repo](https://github.com/0xlino/action-pull-request-another-repo) <kbd>2023-07-12T00:49+01:00</kbd></samp>
 - <samp>[typescript-actions](https://github.com/0xlino/typescript-actions) <kbd>2023-05-29T18:07+01:00</kbd></samp>
@@ -34,6 +34,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[A checklist and guide to get your repository collaboration-ready](https://github.blog/2023-08-04-a-checklist-and-guide-to-get-your-repository-collaboration-ready/) <kbd>2023-08-04T17:00+01:00</kbd></samp>
 - <samp>[Introducing code referencing for GitHub Copilot](https://github.blog/2023-08-03-introducing-code-referencing-for-github-copilot/) <kbd>2023-08-03T17:01+01:00</kbd></samp>
 - <samp>[Best practices for organizations and teams using GitHub Enterprise Cloud](https://github.blog/2023-08-02-best-practices-for-organizations-and-teams-using-github-enterprise-cloud/) <kbd>2023-08-02T20:55+01:00</kbd></samp>
 - <samp>[How we build containerized services at GitHub using GitHub](https://github.blog/2023-08-02-how-we-build-containerized-services-at-github-using-github/) <kbd>2023-08-02T13:31+01:00</kbd></samp>
@@ -43,6 +44,5 @@
 - <samp>[How to get AI regulation right for open source](https://github.blog/2023-07-26-how-to-get-ai-regulation-right-for-open-source/) <kbd>2023-07-26T08:01+01:00</kbd></samp>
 - <samp>[Game Bytes · July 2023](https://github.blog/2023-07-25-game-bytes-july-2023/) <kbd>2023-07-25T20:00+01:00</kbd></samp>
 - <samp>[How to build a GPT-3 App with Nextjs, React, and GitHub Copilot](https://github.blog/2023-07-25-how-to-build-a-gpt-3-app-with-nextjs-react-and-github-copilot/) <kbd>2023-07-25T18:00+01:00</kbd></samp>
-- <samp>[How to responsibly adopt GitHub Copilot with the GitHub Copilot Trust Center](https://github.blog/2023-07-25-how-to-responsibly-adopt-github-copilot-with-the-github-copilot-trust-center/) <kbd>2023-07-25T17:00+01:00</kbd></samp>
 
 <!-- POSTS:END -->
