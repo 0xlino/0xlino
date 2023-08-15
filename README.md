@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-08-15T19:52+01:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-08-15T19:59+01:00</kbd></samp>
 - <samp>[learninpublic](https://github.com/0xlino/learninpublic) <kbd>2023-07-18T00:27+01:00</kbd></samp>
 - <samp>[action-pull-request-another-repo](https://github.com/0xlino/action-pull-request-another-repo) <kbd>2023-07-12T00:49+01:00</kbd></samp>
 - <samp>[typescript-actions](https://github.com/0xlino/typescript-actions) <kbd>2023-05-29T18:07+01:00</kbd></samp>
@@ -34,6 +34,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[Build for today, transform for tomorrow at GitHub Universe 2023](https://github.blog/2023-08-15-build-for-today-transform-for-tomorrow-at-github-universe-2023/) <kbd>2023-08-15T20:04+01:00</kbd></samp>
 - <samp>[Release Radar · July 2023 Edition](https://github.blog/2023-08-15-release-radar-jul-23/) <kbd>2023-08-15T19:00+01:00</kbd></samp>
 - <samp>[Hardening repositories against credential theft](https://github.blog/2023-08-15-hardening-repositories-against-credential-theft/) <kbd>2023-08-15T17:00+01:00</kbd></samp>
 - <samp>[Nine years of the GitHub Security Bug Bounty program](https://github.blog/2023-08-14-nine-years-of-the-github-security-bug-bounty-program/) <kbd>2023-08-14T16:21+01:00</kbd></samp>
@@ -43,6 +44,5 @@
 - <samp>[A guide to designing and shipping AI developer tools](https://github.blog/2023-08-08-a-guide-to-designing-and-shipping-ai-developer-tools/) <kbd>2023-08-08T15:28+01:00</kbd></samp>
 - <samp>[A checklist and guide to get your repository collaboration-ready](https://github.blog/2023-08-04-a-checklist-and-guide-to-get-your-repository-collaboration-ready/) <kbd>2023-08-04T17:00+01:00</kbd></samp>
 - <samp>[Introducing code referencing for GitHub Copilot](https://github.blog/2023-08-03-introducing-code-referencing-for-github-copilot/) <kbd>2023-08-03T17:01+01:00</kbd></samp>
-- <samp>[Best practices for organizations and teams using GitHub Enterprise Cloud](https://github.blog/2023-08-02-best-practices-for-organizations-and-teams-using-github-enterprise-cloud/) <kbd>2023-08-02T20:55+01:00</kbd></samp>
 
 <!-- POSTS:END -->
