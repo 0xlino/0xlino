@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-08-15T16:49+01:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-08-15T16:55+01:00</kbd></samp>
 - <samp>[learninpublic](https://github.com/0xlino/learninpublic) <kbd>2023-07-18T00:27+01:00</kbd></samp>
 - <samp>[action-pull-request-another-repo](https://github.com/0xlino/action-pull-request-another-repo) <kbd>2023-07-12T00:49+01:00</kbd></samp>
 - <samp>[typescript-actions](https://github.com/0xlino/typescript-actions) <kbd>2023-05-29T18:07+01:00</kbd></samp>
@@ -34,6 +34,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[Hardening repositories against credential theft](https://github.blog/2023-08-15-hardening-repositories-against-credential-theft/) <kbd>2023-08-15T17:00+01:00</kbd></samp>
 - <samp>[Nine years of the GitHub Security Bug Bounty program](https://github.blog/2023-08-14-nine-years-of-the-github-security-bug-bounty-program/) <kbd>2023-08-14T16:21+01:00</kbd></samp>
 - <samp>[Enhanced push protection features for developers and organizations](https://github.blog/2023-08-09-enhanced-push-protection-features-for-developers-and-organizations/) <kbd>2023-08-09T20:02+01:00</kbd></samp>
 - <samp>[GitHub Availability Report: July 2023](https://github.blog/2023-08-09-github-availability-report-july-2023/) <kbd>2023-08-09T19:00+01:00</kbd></samp>
@@ -43,6 +44,5 @@
 - <samp>[Introducing code referencing for GitHub Copilot](https://github.blog/2023-08-03-introducing-code-referencing-for-github-copilot/) <kbd>2023-08-03T17:01+01:00</kbd></samp>
 - <samp>[Best practices for organizations and teams using GitHub Enterprise Cloud](https://github.blog/2023-08-02-best-practices-for-organizations-and-teams-using-github-enterprise-cloud/) <kbd>2023-08-02T20:55+01:00</kbd></samp>
 - <samp>[How we build containerized services at GitHub using GitHub](https://github.blog/2023-08-02-how-we-build-containerized-services-at-github-using-github/) <kbd>2023-08-02T13:31+01:00</kbd></samp>
-- <samp>[Smarter, more efficient coding: GitHub Copilot goes beyond Codex with improved AI model](https://github.blog/2023-07-28-smarter-more-efficient-coding-github-copilot-goes-beyond-codex-with-improved-ai-model/) <kbd>2023-07-28T20:24+01:00</kbd></samp>
 
 <!-- POSTS:END -->
