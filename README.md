@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-08-24T21:45+01:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-08-24T21:51+01:00</kbd></samp>
 - <samp>[vanity-addy](https://github.com/0xlino/vanity-addy) <kbd>2023-08-20T22:59+01:00</kbd></samp>
 - <samp>[learninpublic](https://github.com/0xlino/learninpublic) <kbd>2023-07-18T00:27+01:00</kbd></samp>
 - <samp>[action-pull-request-another-repo](https://github.com/0xlino/action-pull-request-another-repo) <kbd>2023-07-12T00:49+01:00</kbd></samp>
@@ -35,6 +35,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[A faster way to manage version updates with Dependabot](https://github.blog/2023-08-24-a-faster-way-to-manage-version-updates-with-dependabot/) <kbd>2023-08-24T21:55+01:00</kbd></samp>
 - <samp>[Unleashing GitHub Codespaces templates to ignite your development](https://github.blog/2023-08-24-unleashing-github-codespaces-templates-to-ignite-your-development/) <kbd>2023-08-24T17:57+01:00</kbd></samp>
 - <samp>[AI-powered impact: GitHub Social Impact’s year ahead](https://github.blog/2023-08-23-ai-powered-impact-github-social-impacts-year-ahead/) <kbd>2023-08-23T17:00+01:00</kbd></samp>
 - <samp>[Highlights from Git 2.42](https://github.blog/2023-08-21-highlights-from-git-2-42/) <kbd>2023-08-21T18:45+01:00</kbd></samp>
@@ -44,6 +45,5 @@
 - <samp>[Hardening repositories against credential theft](https://github.blog/2023-08-15-hardening-repositories-against-credential-theft/) <kbd>2023-08-15T17:00+01:00</kbd></samp>
 - <samp>[Nine years of the GitHub Security Bug Bounty program](https://github.blog/2023-08-14-nine-years-of-the-github-security-bug-bounty-program/) <kbd>2023-08-14T16:21+01:00</kbd></samp>
 - <samp>[Enhanced push protection features for developers and organizations](https://github.blog/2023-08-09-enhanced-push-protection-features-for-developers-and-organizations/) <kbd>2023-08-09T20:02+01:00</kbd></samp>
-- <samp>[GitHub Availability Report: July 2023](https://github.blog/2023-08-09-github-availability-report-july-2023/) <kbd>2023-08-09T19:00+01:00</kbd></samp>
 
 <!-- POSTS:END -->
