@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-08-29T19:50+01:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-08-29T19:56+01:00</kbd></samp>
 - <samp>[vanity-addy](https://github.com/0xlino/vanity-addy) <kbd>2023-08-20T22:59+01:00</kbd></samp>
 - <samp>[learninpublic](https://github.com/0xlino/learninpublic) <kbd>2023-07-18T00:27+01:00</kbd></samp>
 - <samp>[action-pull-request-another-repo](https://github.com/0xlino/action-pull-request-another-repo) <kbd>2023-07-12T00:49+01:00</kbd></samp>
@@ -35,6 +35,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[GitHub Enterprise Server 3.10 is now generally available](https://github.blog/2023-08-29-github-enterprise-server-3-10-is-now-generally-available/) <kbd>2023-08-29T19:59+01:00</kbd></samp>
 - <samp>[10 things you didn’t know you could do with GitHub Projects](https://github.blog/2023-08-28-10-things-you-didnt-know-you-could-do-with-github-projects/) <kbd>2023-08-28T17:18+01:00</kbd></samp>
 - <samp>[Game Bytes · August 2023](https://github.blog/2023-08-25-game-bytes-august-2023/) <kbd>2023-08-25T19:11+01:00</kbd></samp>
 - <samp>[A faster way to manage version updates with Dependabot](https://github.blog/2023-08-24-a-faster-way-to-manage-version-updates-with-dependabot/) <kbd>2023-08-24T21:55+01:00</kbd></samp>
@@ -44,6 +45,5 @@
 - <samp>[mTLS: When certificate authentication is done wrong](https://github.blog/2023-08-17-mtls-when-certificate-authentication-is-done-wrong/) <kbd>2023-08-17T22:22+01:00</kbd></samp>
 - <samp>[Build for today, transform for tomorrow at GitHub Universe 2023](https://github.blog/2023-08-15-build-for-today-transform-for-tomorrow-at-github-universe-2023/) <kbd>2023-08-15T20:04+01:00</kbd></samp>
 - <samp>[Release Radar · July 2023 Edition](https://github.blog/2023-08-15-release-radar-jul-23/) <kbd>2023-08-15T19:00+01:00</kbd></samp>
-- <samp>[Hardening repositories against credential theft](https://github.blog/2023-08-15-hardening-repositories-against-credential-theft/) <kbd>2023-08-15T17:00+01:00</kbd></samp>
 
 <!-- POSTS:END -->
