@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-09-06T19:52+01:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-09-06T19:58+01:00</kbd></samp>
 - <samp>[vanity-addy](https://github.com/0xlino/vanity-addy) <kbd>2023-08-20T22:59+01:00</kbd></samp>
 - <samp>[learninpublic](https://github.com/0xlino/learninpublic) <kbd>2023-07-18T00:27+01:00</kbd></samp>
 - <samp>[action-pull-request-another-repo](https://github.com/0xlino/action-pull-request-another-repo) <kbd>2023-07-12T00:49+01:00</kbd></samp>
@@ -35,6 +35,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[How to build an enterprise LLM application: Lessons from GitHub Copilot](https://github.blog/2023-09-06-how-to-build-an-enterprise-llm-application-lessons-from-github-copilot/) <kbd>2023-09-06T20:04+01:00</kbd></samp>
 - <samp>[Getting started with edge computing](https://github.blog/2023-09-01-getting-started-with-edge-computing/) <kbd>2023-09-01T16:00+01:00</kbd></samp>
 - <samp>[How GitHub reduces costs with upgraded Codespaces](https://github.blog/2023-08-31-how-github-reduces-costs-with-upgraded-codespaces/) <kbd>2023-08-31T16:00+01:00</kbd></samp>
 - <samp>[Why Rust is the most admired language among developers](https://github.blog/2023-08-30-why-rust-is-the-most-admired-language-among-developers/) <kbd>2023-08-30T15:00+01:00</kbd></samp>
@@ -44,6 +45,5 @@
 - <samp>[A faster way to manage version updates with Dependabot](https://github.blog/2023-08-24-a-faster-way-to-manage-version-updates-with-dependabot/) <kbd>2023-08-24T21:55+01:00</kbd></samp>
 - <samp>[Unleashing GitHub Codespaces templates to ignite your development](https://github.blog/2023-08-24-unleashing-github-codespaces-templates-to-ignite-your-development/) <kbd>2023-08-24T17:57+01:00</kbd></samp>
 - <samp>[AI-powered impact: GitHub Social Impact’s year ahead](https://github.blog/2023-08-23-ai-powered-impact-github-social-impacts-year-ahead/) <kbd>2023-08-23T17:00+01:00</kbd></samp>
-- <samp>[Highlights from Git 2.42](https://github.blog/2023-08-21-highlights-from-git-2-42/) <kbd>2023-08-21T18:45+01:00</kbd></samp>
 
 <!-- POSTS:END -->
