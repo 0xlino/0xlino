@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-09-13T16:46+01:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-09-13T16:53+01:00</kbd></samp>
 - <samp>[serverless-gtasks-template](https://github.com/0xlino/serverless-gtasks-template) <kbd>2023-09-12T14:54+01:00</kbd></samp>
 - <samp>[vanity-addy](https://github.com/0xlino/vanity-addy) <kbd>2023-08-20T22:59+01:00</kbd></samp>
 - <samp>[learninpublic](https://github.com/0xlino/learninpublic) <kbd>2023-07-18T00:27+01:00</kbd></samp>
@@ -36,6 +36,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[Apply now for GitHub Universe 2023 micro-mentoring](https://github.blog/2023-09-13-apply-now-for-github-universe-2023-micro-mentoring/) <kbd>2023-09-13T17:00+01:00</kbd></samp>
 - <samp>[CodeQL team uses AI to power vulnerability detection in code](https://github.blog/2023-09-12-codeql-team-uses-ai-to-power-vulnerability-detection-in-code/) <kbd>2023-09-12T17:48+01:00</kbd></samp>
 - <samp>[How to build an enterprise LLM application: Lessons from GitHub Copilot](https://github.blog/2023-09-06-how-to-build-an-enterprise-llm-application-lessons-from-github-copilot/) <kbd>2023-09-06T20:04+01:00</kbd></samp>
 - <samp>[Getting started with edge computing](https://github.blog/2023-09-01-getting-started-with-edge-computing/) <kbd>2023-09-01T16:00+01:00</kbd></samp>
@@ -45,6 +46,5 @@
 - <samp>[10 things you didn’t know you could do with GitHub Projects](https://github.blog/2023-08-28-10-things-you-didnt-know-you-could-do-with-github-projects/) <kbd>2023-08-28T17:18+01:00</kbd></samp>
 - <samp>[Game Bytes · August 2023](https://github.blog/2023-08-25-game-bytes-august-2023/) <kbd>2023-08-25T19:11+01:00</kbd></samp>
 - <samp>[A faster way to manage version updates with Dependabot](https://github.blog/2023-08-24-a-faster-way-to-manage-version-updates-with-dependabot/) <kbd>2023-08-24T21:55+01:00</kbd></samp>
-- <samp>[Unleashing GitHub Codespaces templates to ignite your development](https://github.blog/2023-08-24-unleashing-github-codespaces-templates-to-ignite-your-development/) <kbd>2023-08-24T17:57+01:00</kbd></samp>
 
 <!-- POSTS:END -->
