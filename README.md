@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-09-21T21:48+01:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-09-21T21:54+01:00</kbd></samp>
 - <samp>[serverless-gtasks-template](https://github.com/0xlino/serverless-gtasks-template) <kbd>2023-09-12T14:54+01:00</kbd></samp>
 - <samp>[vanity-addy](https://github.com/0xlino/vanity-addy) <kbd>2023-08-20T22:59+01:00</kbd></samp>
 - <samp>[learninpublic](https://github.com/0xlino/learninpublic) <kbd>2023-07-18T00:27+01:00</kbd></samp>
@@ -36,6 +36,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[The GitHub Security Lab’s journey to disclosing 500 CVEs in open source projects](https://github.blog/2023-09-21-the-github-security-labs-journey-to-disclosing-500-cves-in-open-source-projects/) <kbd>2023-09-21T21:56+01:00</kbd></samp>
 - <samp>[Passkeys are generally available](https://github.blog/2023-09-21-passkeys-are-generally-available/) <kbd>2023-09-21T17:00+01:00</kbd></samp>
 - <samp>[Announcing the GitHub Innovation Graph](https://github.blog/2023-09-21-announcing-the-github-innovation-graph/) <kbd>2023-09-21T16:00+01:00</kbd></samp>
 - <samp>[GitHub Copilot Chat beta now available for all individuals](https://github.blog/2023-09-20-github-copilot-chat-beta-now-available-for-all-individuals/) <kbd>2023-09-20T18:00+01:00</kbd></samp>
@@ -45,6 +46,5 @@
 - <samp>[Introducing auto-triage rules for Dependabot](https://github.blog/2023-09-14-introducing-auto-triage-rules-for-dependabot/) <kbd>2023-09-14T18:34+01:00</kbd></samp>
 - <samp>[GitHub Availability Report: August 2023](https://github.blog/2023-09-13-github-availability-report-august-2023/) <kbd>2023-09-13T20:00+01:00</kbd></samp>
 - <samp>[Apply now for GitHub Universe 2023 micro-mentoring](https://github.blog/2023-09-13-apply-now-for-github-universe-2023-micro-mentoring/) <kbd>2023-09-13T17:00+01:00</kbd></samp>
-- <samp>[CodeQL team uses AI to power vulnerability detection in code](https://github.blog/2023-09-12-codeql-team-uses-ai-to-power-vulnerability-detection-in-code/) <kbd>2023-09-12T17:48+01:00</kbd></samp>
 
 <!-- POSTS:END -->
