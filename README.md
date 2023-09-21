@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-09-21T16:52+01:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-09-21T16:58+01:00</kbd></samp>
 - <samp>[serverless-gtasks-template](https://github.com/0xlino/serverless-gtasks-template) <kbd>2023-09-12T14:54+01:00</kbd></samp>
 - <samp>[vanity-addy](https://github.com/0xlino/vanity-addy) <kbd>2023-08-20T22:59+01:00</kbd></samp>
 - <samp>[learninpublic](https://github.com/0xlino/learninpublic) <kbd>2023-07-18T00:27+01:00</kbd></samp>
@@ -36,6 +36,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[Passkeys are generally available](https://github.blog/2023-09-21-passkeys-are-generally-available/) <kbd>2023-09-21T17:00+01:00</kbd></samp>
 - <samp>[Announcing the GitHub Innovation Graph](https://github.blog/2023-09-21-announcing-the-github-innovation-graph/) <kbd>2023-09-21T16:00+01:00</kbd></samp>
 - <samp>[GitHub Copilot Chat beta now available for all individuals](https://github.blog/2023-09-20-github-copilot-chat-beta-now-available-for-all-individuals/) <kbd>2023-09-20T18:00+01:00</kbd></samp>
 - <samp>[Introducing Learning Paths on Global Campus](https://github.blog/2023-09-20-introducing-learning-paths-on-global-campus/) <kbd>2023-09-20T17:00+01:00</kbd></samp>
@@ -45,6 +46,5 @@
 - <samp>[GitHub Availability Report: August 2023](https://github.blog/2023-09-13-github-availability-report-august-2023/) <kbd>2023-09-13T20:00+01:00</kbd></samp>
 - <samp>[Apply now for GitHub Universe 2023 micro-mentoring](https://github.blog/2023-09-13-apply-now-for-github-universe-2023-micro-mentoring/) <kbd>2023-09-13T17:00+01:00</kbd></samp>
 - <samp>[CodeQL team uses AI to power vulnerability detection in code](https://github.blog/2023-09-12-codeql-team-uses-ai-to-power-vulnerability-detection-in-code/) <kbd>2023-09-12T17:48+01:00</kbd></samp>
-- <samp>[How to build an enterprise LLM application: Lessons from GitHub Copilot](https://github.blog/2023-09-06-how-to-build-an-enterprise-llm-application-lessons-from-github-copilot/) <kbd>2023-09-06T20:04+01:00</kbd></samp>
 
 <!-- POSTS:END -->
