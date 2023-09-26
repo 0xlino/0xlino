@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-09-26T15:51+01:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-09-26T15:57+01:00</kbd></samp>
 - <samp>[serverless-gtasks-template](https://github.com/0xlino/serverless-gtasks-template) <kbd>2023-09-12T14:54+01:00</kbd></samp>
 - <samp>[vanity-addy](https://github.com/0xlino/vanity-addy) <kbd>2023-08-20T22:59+01:00</kbd></samp>
 - <samp>[learninpublic](https://github.com/0xlino/learninpublic) <kbd>2023-07-18T00:27+01:00</kbd></samp>
@@ -36,6 +36,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[Getting RCE in Chrome with incorrect side effect in the JIT compiler](https://github.blog/2023-09-26-getting-rce-in-chrome-with-incorrect-side-effect-in-the-jit-compiler/) <kbd>2023-09-26T16:00+01:00</kbd></samp>
 - <samp>[Calling all teachers! Learn how to build new commands on the GitHub Classroom CLI](https://github.blog/2023-09-25-calling-all-teachers-learn-how-to-build-new-commands-on-the-github-classroom-cli/) <kbd>2023-09-25T17:08+01:00</kbd></samp>
 - <samp>[The GitHub Security Lab’s journey to disclosing 500 CVEs in open source projects](https://github.blog/2023-09-21-the-github-security-labs-journey-to-disclosing-500-cves-in-open-source-projects/) <kbd>2023-09-21T21:56+01:00</kbd></samp>
 - <samp>[Passkeys are generally available](https://github.blog/2023-09-21-passkeys-are-generally-available/) <kbd>2023-09-21T17:00+01:00</kbd></samp>
@@ -45,6 +46,5 @@
 - <samp>[Announcing general availability of GitHub Advanced Security for Azure DevOps](https://github.blog/2023-09-20-announcing-general-availability-of-github-advanced-security-for-azure-devops/) <kbd>2023-09-20T16:00+01:00</kbd></samp>
 - <samp>[Switching from Bitbucket Server and Bamboo to GitHub just got easier](https://github.blog/2023-09-18-switching-from-bitbucket-server-and-bamboo-to-github-just-got-easier/) <kbd>2023-09-18T17:00+01:00</kbd></samp>
 - <samp>[Introducing auto-triage rules for Dependabot](https://github.blog/2023-09-14-introducing-auto-triage-rules-for-dependabot/) <kbd>2023-09-14T18:34+01:00</kbd></samp>
-- <samp>[GitHub Availability Report: August 2023](https://github.blog/2023-09-13-github-availability-report-august-2023/) <kbd>2023-09-13T20:00+01:00</kbd></samp>
 
 <!-- POSTS:END -->
