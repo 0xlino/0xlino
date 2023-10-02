@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-10-02T15:50+01:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-10-02T15:56+01:00</kbd></samp>
 - <samp>[serverless-gtasks-template](https://github.com/0xlino/serverless-gtasks-template) <kbd>2023-09-12T14:54+01:00</kbd></samp>
 - <samp>[vanity-addy](https://github.com/0xlino/vanity-addy) <kbd>2023-08-20T22:59+01:00</kbd></samp>
 - <samp>[learninpublic](https://github.com/0xlino/learninpublic) <kbd>2023-07-18T00:27+01:00</kbd></samp>
@@ -36,6 +36,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[Introducing the new, Apple silicon powered M1 macOS larger runner for GitHub Actions](https://github.blog/2023-10-02-introducing-the-new-apple-silicon-powered-m1-macos-larger-runner-for-github-actions/) <kbd>2023-10-02T16:01+01:00</kbd></samp>
 - <samp>[Game Bytes · September 2023](https://github.blog/2023-09-29-game-bytes/) <kbd>2023-09-29T15:36+01:00</kbd></samp>
 - <samp>[GitHub Learning Pathways: Learn from the best](https://github.blog/2023-09-28-github-learning-pathways-learn-from-the-best/) <kbd>2023-09-28T18:33+01:00</kbd></samp>
 - <samp>[How I used GitHub Copilot Chat to build a ReactJS gallery prototype](https://github.blog/2023-09-27-how-i-used-github-copilot-chat-to-build-a-reactjs-gallery-prototype/) <kbd>2023-09-27T17:24+01:00</kbd></samp>
@@ -45,6 +46,5 @@
 - <samp>[Calling all teachers! Learn how to build new commands on the GitHub Classroom CLI](https://github.blog/2023-09-25-calling-all-teachers-learn-how-to-build-new-commands-on-the-github-classroom-cli/) <kbd>2023-09-25T17:08+01:00</kbd></samp>
 - <samp>[The GitHub Security Lab’s journey to disclosing 500 CVEs in open source projects](https://github.blog/2023-09-21-the-github-security-labs-journey-to-disclosing-500-cves-in-open-source-projects/) <kbd>2023-09-21T21:56+01:00</kbd></samp>
 - <samp>[Passkeys are generally available](https://github.blog/2023-09-21-passkeys-are-generally-available/) <kbd>2023-09-21T17:00+01:00</kbd></samp>
-- <samp>[Announcing the GitHub Innovation Graph](https://github.blog/2023-09-21-announcing-the-github-innovation-graph/) <kbd>2023-09-21T16:00+01:00</kbd></samp>
 
 <!-- POSTS:END -->
