@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-10-03T17:53+01:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-10-03T17:59+01:00</kbd></samp>
 - <samp>[serverless-gtasks-template](https://github.com/0xlino/serverless-gtasks-template) <kbd>2023-09-12T14:54+01:00</kbd></samp>
 - <samp>[vanity-addy](https://github.com/0xlino/vanity-addy) <kbd>2023-08-20T22:59+01:00</kbd></samp>
 - <samp>[learninpublic](https://github.com/0xlino/learninpublic) <kbd>2023-07-18T00:27+01:00</kbd></samp>
@@ -36,6 +36,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[Sponsors is expanding](https://github.blog/2023-10-03-sponsors-is-expanding/) <kbd>2023-10-03T18:00+01:00</kbd></samp>
 - <samp>[3 strategies to expand your threat model and secure your supply chain](https://github.blog/2023-10-03-3-strategies-to-expand-your-threat-model-and-secure-your-supply-chain/) <kbd>2023-10-03T17:24+01:00</kbd></samp>
 - <samp>[Cybersecurity spotlight on bug bounty researcher @inspector-ambitious](https://github.blog/2023-10-02-cybersecurity-spotlight-on-bug-bounty-researcher-inspector-ambitious/) <kbd>2023-10-02T18:19+01:00</kbd></samp>
 - <samp>[Introducing the new, Apple silicon powered M1 macOS larger runner for GitHub Actions](https://github.blog/2023-10-02-introducing-the-new-apple-silicon-powered-m1-macos-larger-runner-for-github-actions/) <kbd>2023-10-02T16:01+01:00</kbd></samp>
@@ -45,6 +46,5 @@
 - <samp>[How GitHub uses GitHub Actions and Actions larger runners to build and test GitHub.com](https://github.blog/2023-09-26-how-github-uses-github-actions-and-actions-larger-runners-to-build-and-test-github-com/) <kbd>2023-09-26T18:30+01:00</kbd></samp>
 - <samp>[Your ultimate guide to the GitHub Universe ‘23 agenda](https://github.blog/2023-09-26-your-ultimate-guide-to-the-github-universe-23-agenda/) <kbd>2023-09-26T17:00+01:00</kbd></samp>
 - <samp>[Getting RCE in Chrome with incorrect side effect in the JIT compiler](https://github.blog/2023-09-26-getting-rce-in-chrome-with-incorrect-side-effect-in-the-jit-compiler/) <kbd>2023-09-26T16:00+01:00</kbd></samp>
-- <samp>[Calling all teachers! Learn how to build new commands on the GitHub Classroom CLI](https://github.blog/2023-09-25-calling-all-teachers-learn-how-to-build-new-commands-on-the-github-classroom-cli/) <kbd>2023-09-25T17:08+01:00</kbd></samp>
 
 <!-- POSTS:END -->
