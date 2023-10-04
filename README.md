@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-10-04T17:48+01:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-10-04T17:54+01:00</kbd></samp>
 - <samp>[serverless-gtasks-template](https://github.com/0xlino/serverless-gtasks-template) <kbd>2023-09-12T14:54+01:00</kbd></samp>
 - <samp>[vanity-addy](https://github.com/0xlino/vanity-addy) <kbd>2023-08-20T22:59+01:00</kbd></samp>
 - <samp>[learninpublic](https://github.com/0xlino/learninpublic) <kbd>2023-07-18T00:27+01:00</kbd></samp>
@@ -36,6 +36,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[How to communicate like a GitHub engineer: our principles, practices, and tools](https://github.blog/2023-10-04-how-to-communicate-like-a-github-engineer-our-principles-practices-and-tools/) <kbd>2023-10-04T18:00+01:00</kbd></samp>
 - <samp>[Introducing secret scanning validity checks for major cloud services](https://github.blog/2023-10-04-introducing-secret-scanning-validity-checks-for-major-cloud-services/) <kbd>2023-10-04T17:00+01:00</kbd></samp>
 - <samp>[Sponsors is expanding](https://github.blog/2023-10-03-sponsors-is-expanding/) <kbd>2023-10-03T18:00+01:00</kbd></samp>
 - <samp>[3 strategies to expand your threat model and secure your supply chain](https://github.blog/2023-10-03-3-strategies-to-expand-your-threat-model-and-secure-your-supply-chain/) <kbd>2023-10-03T17:24+01:00</kbd></samp>
@@ -45,6 +46,5 @@
 - <samp>[GitHub Learning Pathways: Learn from the best](https://github.blog/2023-09-28-github-learning-pathways-learn-from-the-best/) <kbd>2023-09-28T18:33+01:00</kbd></samp>
 - <samp>[How I used GitHub Copilot Chat to build a ReactJS gallery prototype](https://github.blog/2023-09-27-how-i-used-github-copilot-chat-to-build-a-reactjs-gallery-prototype/) <kbd>2023-09-27T17:24+01:00</kbd></samp>
 - <samp>[How GitHub uses GitHub Actions and Actions larger runners to build and test GitHub.com](https://github.blog/2023-09-26-how-github-uses-github-actions-and-actions-larger-runners-to-build-and-test-github-com/) <kbd>2023-09-26T18:30+01:00</kbd></samp>
-- <samp>[Your ultimate guide to the GitHub Universe ‘23 agenda](https://github.blog/2023-09-26-your-ultimate-guide-to-the-github-universe-23-agenda/) <kbd>2023-09-26T17:00+01:00</kbd></samp>
 
 <!-- POSTS:END -->
