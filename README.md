@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-10-13T17:30+01:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-10-13T17:38+01:00</kbd></samp>
 - <samp>[royalmailv4api](https://github.com/0xlino/royalmailv4api) <kbd>2023-10-13T01:02+01:00</kbd></samp>
 - <samp>[typescript-actions](https://github.com/0xlino/typescript-actions) <kbd>2023-10-11T18:06+01:00</kbd></samp>
 - <samp>[snippets](https://github.com/0xlino/snippets) <kbd>2023-10-08T13:49+01:00</kbd></samp>
@@ -37,6 +37,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[js13kGames 2023 winners 🏆](https://github.blog/2023-10-13-js13k-2023-winners/) <kbd>2023-10-13T08:13+01:00</kbd></samp>
 - <samp>[Ensuring the next generation of open source leaders are truly &#8220;all in&#8221;](https://github.blog/2023-10-12-ensuring-the-next-generation-of-open-source-leaders-are-truly-all-in/) <kbd>2023-10-12T16:00+01:00</kbd></samp>
 - <samp>[GitHub Availability Report: September 2023](https://github.blog/2023-10-11-github-availability-report-september-2023/) <kbd>2023-10-11T20:47+01:00</kbd></samp>
 - <samp>[Enforcing code reliability by requiring workflows with GitHub Repository Rules](https://github.blog/2023-10-11-enforcing-code-reliability-by-requiring-workflows-with-github-repository-rules/) <kbd>2023-10-11T16:00+01:00</kbd></samp>
@@ -46,6 +47,5 @@
 - <samp>[Skilling African developers through All In Africa](https://github.blog/2023-10-09-skilling-african-developers-through-all-in-africa/) <kbd>2023-10-09T15:02+01:00</kbd></samp>
 - <samp>[A developer&#8217;s guide to open source LLMs and generative AI](https://github.blog/2023-10-05-a-developers-guide-to-open-source-llms-and-generative-ai/) <kbd>2023-10-05T17:00+01:00</kbd></samp>
 - <samp>[How to communicate like a GitHub engineer: our principles, practices, and tools](https://github.blog/2023-10-04-how-to-communicate-like-a-github-engineer-our-principles-practices-and-tools/) <kbd>2023-10-04T18:00+01:00</kbd></samp>
-- <samp>[Introducing secret scanning validity checks for major cloud services](https://github.blog/2023-10-04-introducing-secret-scanning-validity-checks-for-major-cloud-services/) <kbd>2023-10-04T17:00+01:00</kbd></samp>
 
 <!-- POSTS:END -->
