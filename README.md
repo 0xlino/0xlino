@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-10-17T18:49+01:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-10-17T18:55+01:00</kbd></samp>
 - <samp>[royalmailv4api](https://github.com/0xlino/royalmailv4api) <kbd>2023-10-13T01:02+01:00</kbd></samp>
 - <samp>[typescript-actions](https://github.com/0xlino/typescript-actions) <kbd>2023-10-11T18:06+01:00</kbd></samp>
 - <samp>[snippets](https://github.com/0xlino/snippets) <kbd>2023-10-08T13:49+01:00</kbd></samp>
@@ -37,6 +37,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[The clock is ticking: Atlassian’s support for Bitbucket Server ends on February 15, 2024](https://github.blog/2023-10-17-the-clock-is-ticking-atlassians-support-for-bitbucket-server-ends-on-february-15-2024/) <kbd>2023-10-17T19:00+01:00</kbd></samp>
 - <samp>[Getting RCE in Chrome with incomplete object initialization in the Maglev compiler](https://github.blog/2023-10-17-getting-rce-in-chrome-with-incomplete-object-initialization-in-the-maglev-compiler/) <kbd>2023-10-17T16:00+01:00</kbd></samp>
 - <samp>[Measuring Git performance with OpenTelemetry](https://github.blog/2023-10-16-measuring-git-performance-with-opentelemetry/) <kbd>2023-10-16T16:28+01:00</kbd></samp>
 - <samp>[js13kGames 2023 winners 🏆](https://github.blog/2023-10-13-js13k-2023-winners/) <kbd>2023-10-13T08:13+01:00</kbd></samp>
@@ -46,6 +47,5 @@
 - <samp>[Research: Quantifying GitHub Copilot’s impact on code quality](https://github.blog/2023-10-10-research-quantifying-github-copilots-impact-on-code-quality/) <kbd>2023-10-10T17:00+01:00</kbd></samp>
 - <samp>[Coordinated Disclosure: 1-Click RCE on GNOME (CVE-2023-43641)](https://github.blog/2023-10-09-coordinated-disclosure-1-click-rce-on-gnome-cve-2023-43641/) <kbd>2023-10-09T18:00+01:00</kbd></samp>
 - <samp>[Prompting GitHub Copilot Chat to become your personal AI assistant for accessibility](https://github.blog/2023-10-09-prompting-github-copilot-chat-to-become-your-personal-ai-assistant-for-accessibility/) <kbd>2023-10-09T17:00+01:00</kbd></samp>
-- <samp>[Skilling African developers through All In Africa](https://github.blog/2023-10-09-skilling-african-developers-through-all-in-africa/) <kbd>2023-10-09T15:02+01:00</kbd></samp>
 
 <!-- POSTS:END -->
