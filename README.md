@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-10-23T22:11+01:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-10-23T22:18+01:00</kbd></samp>
 - <samp>[royalmailv4api](https://github.com/0xlino/royalmailv4api) <kbd>2023-10-13T01:02+01:00</kbd></samp>
 - <samp>[typescript-actions](https://github.com/0xlino/typescript-actions) <kbd>2023-10-11T18:06+01:00</kbd></samp>
 - <samp>[snippets](https://github.com/0xlino/snippets) <kbd>2023-10-08T13:49+01:00</kbd></samp>
@@ -46,6 +46,6 @@
 - <samp>[js13kGames 2023 winners 🏆](https://github.blog/2023-10-13-js13k-2023-winners/) <kbd>2023-10-13T08:13+01:00</kbd></samp>
 - <samp>[Ensuring the next generation of open source leaders are truly &#8220;all in&#8221;](https://github.blog/2023-10-12-ensuring-the-next-generation-of-open-source-leaders-are-truly-all-in/) <kbd>2023-10-12T16:00+01:00</kbd></samp>
 - <samp>[GitHub Availability Report: September 2023](https://github.blog/2023-10-11-github-availability-report-september-2023/) <kbd>2023-10-11T20:47+01:00</kbd></samp>
-- <samp>[Enforcing code reliability by requiring workflows with GitHub Repository Rules](https://github.blog/2023-10-11-enforcing-code-reliability-by-requiring-workflows-with-github-repository-rules/) <kbd>2023-10-11T16:00+01:00</kbd></samp>
+- <samp>[Enforcing code reliability by requiring workflows with GitHub repository rules](https://github.blog/2023-10-11-enforcing-code-reliability-by-requiring-workflows-with-github-repository-rules/) <kbd>2023-10-11T16:00+01:00</kbd></samp>
 
 <!-- POSTS:END -->
