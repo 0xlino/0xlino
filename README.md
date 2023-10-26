@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-10-26T16:50+01:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-10-26T16:56+01:00</kbd></samp>
 - <samp>[action-pull-request-another-repo](https://github.com/0xlino/action-pull-request-another-repo) <kbd>2023-10-25T11:44+01:00</kbd></samp>
 - <samp>[royalmailv4api](https://github.com/0xlino/royalmailv4api) <kbd>2023-10-13T01:02+01:00</kbd></samp>
 - <samp>[typescript-actions](https://github.com/0xlino/typescript-actions) <kbd>2023-10-11T18:06+01:00</kbd></samp>
@@ -37,6 +37,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[5 tips for making your GitHub profile page accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible/) <kbd>2023-10-26T17:00+01:00</kbd></samp>
 - <samp>[Cybersecurity spotlight on bug bounty researcher @Ammar Askar](https://github.blog/2023-10-25-cybersecurity-spotlight-on-bug-bounty-researcher-ammar-askar/) <kbd>2023-10-25T17:00+01:00</kbd></samp>
 - <samp>[How to gain insight into your project contributors](https://github.blog/2023-10-23-how-to-gain-insight-into-your-project-contributors/) <kbd>2023-10-23T21:39+01:00</kbd></samp>
 - <samp>[ICYMI: improved C++ vulnerability coverage and CodeQL support for Lombok](https://github.blog/2023-10-19-icymi-improved-c-vulnerability-coverage-and-codeql-support-for-lombok/) <kbd>2023-10-19T20:14+01:00</kbd></samp>
@@ -46,6 +47,5 @@
 - <samp>[Measuring Git performance with OpenTelemetry](https://github.blog/2023-10-16-measuring-git-performance-with-opentelemetry/) <kbd>2023-10-16T16:28+01:00</kbd></samp>
 - <samp>[js13kGames 2023 winners 🏆](https://github.blog/2023-10-13-js13k-2023-winners/) <kbd>2023-10-13T08:13+01:00</kbd></samp>
 - <samp>[Ensuring the next generation of open source leaders are truly &#8220;all in&#8221;](https://github.blog/2023-10-12-ensuring-the-next-generation-of-open-source-leaders-are-truly-all-in/) <kbd>2023-10-12T16:00+01:00</kbd></samp>
-- <samp>[GitHub Availability Report: September 2023](https://github.blog/2023-10-11-github-availability-report-september-2023/) <kbd>2023-10-11T20:47+01:00</kbd></samp>
 
 <!-- POSTS:END -->
