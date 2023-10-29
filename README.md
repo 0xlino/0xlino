@@ -11,7 +11,8 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-10-29T12:37+00:00</kbd></samp>
+- <samp>[trending](https://github.com/0xlino/trending) <kbd>2023-10-29T12:55+00:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-10-29T12:47+00:00</kbd></samp>
 - <samp>[defi-helper](https://github.com/0xlino/defi-helper) <kbd>2023-10-28T16:39+01:00</kbd></samp>
 - <samp>[babymev](https://github.com/0xlino/babymev) <kbd>2023-10-28T13:42+01:00</kbd></samp>
 - <samp>[shamir](https://github.com/0xlino/shamir) <kbd>2023-10-28T00:36+01:00</kbd></samp>
@@ -20,7 +21,6 @@
 - <samp>[typescript-actions](https://github.com/0xlino/typescript-actions) <kbd>2023-10-11T18:06+01:00</kbd></samp>
 - <samp>[snippets](https://github.com/0xlino/snippets) <kbd>2023-10-08T13:49+01:00</kbd></samp>
 - <samp>[serverless-gtasks-template](https://github.com/0xlino/serverless-gtasks-template) <kbd>2023-09-12T14:54+01:00</kbd></samp>
-- <samp>[vanity-addy](https://github.com/0xlino/vanity-addy) <kbd>2023-08-20T22:59+01:00</kbd></samp>
 
 <!-- PUSHES:END -->
 
