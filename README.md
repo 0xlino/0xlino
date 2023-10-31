@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-10-31T05:59+00:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-10-31T06:08+00:00</kbd></samp>
 - <samp>[trending](https://github.com/0xlino/trending) <kbd>2023-10-31T02:08+00:00</kbd></samp>
 - <samp>[snippets](https://github.com/0xlino/snippets) <kbd>2023-10-29T15:01+00:00</kbd></samp>
 - <samp>[defi-helper](https://github.com/0xlino/defi-helper) <kbd>2023-10-28T16:39+01:00</kbd></samp>
@@ -37,6 +37,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[Release Radar · Hacktoberfest 2023 Edition](https://github.blog/2023-10-30-release-radar-hack-23/) <kbd>2023-10-31T06:11+00:00</kbd></samp>
 - <samp>[The architecture of today&#8217;s LLM applications](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/) <kbd>2023-10-30T16:22+00:00</kbd></samp>
 - <samp>[Hackable Halloween games MMXXIII](https://github.blog/2023-10-30-hackable-halloween-games-mmxxiii/) <kbd>2023-10-30T08:00+00:00</kbd></samp>
 - <samp>[Demystifying LLMs: How they can do things they weren&#8217;t trained to do](https://github.blog/2023-10-27-demystifying-llms-how-they-can-do-things-they-werent-trained-to-do/) <kbd>2023-10-27T17:57+01:00</kbd></samp>
@@ -46,6 +47,5 @@
 - <samp>[How to gain insight into your project contributors](https://github.blog/2023-10-23-how-to-gain-insight-into-your-project-contributors/) <kbd>2023-10-23T21:39+01:00</kbd></samp>
 - <samp>[ICYMI: improved C++ vulnerability coverage and CodeQL support for Lombok](https://github.blog/2023-10-19-icymi-improved-c-vulnerability-coverage-and-codeql-support-for-lombok/) <kbd>2023-10-19T20:14+01:00</kbd></samp>
 - <samp>[Your curated GitHub Universe agenda: AI, ethics, and productivity](https://github.blog/2023-10-17-your-curated-github-universe-agenda-ai-ethics-and-productivity/) <kbd>2023-10-17T20:03+01:00</kbd></samp>
-- <samp>[The clock is ticking: Atlassian’s support for Bitbucket Server ends on February 15, 2024](https://github.blog/2023-10-17-the-clock-is-ticking-atlassians-support-for-bitbucket-server-ends-on-february-15-2024/) <kbd>2023-10-17T19:00+01:00</kbd></samp>
 
 <!-- POSTS:END -->
