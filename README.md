@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-11-01T15:51+00:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-11-01T15:57+00:00</kbd></samp>
 - <samp>[trending](https://github.com/0xlino/trending) <kbd>2023-11-01T02:11+00:00</kbd></samp>
 - <samp>[snippets](https://github.com/0xlino/snippets) <kbd>2023-10-29T15:01+00:00</kbd></samp>
 - <samp>[defi-helper](https://github.com/0xlino/defi-helper) <kbd>2023-10-28T16:39+01:00</kbd></samp>
@@ -37,6 +37,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[Diversity, inclusion, and belonging at GitHub in 2023](https://github.blog/2023-11-01-diversity-inclusion-and-belonging-at-github-in-2023/) <kbd>2023-11-01T16:01+00:00</kbd></samp>
 - <samp>[Introducing the GitHub transparency center](https://github.blog/2023-10-31-introducing-the-github-transparency-center/) <kbd>2023-10-31T19:22+00:00</kbd></samp>
 - <samp>[Release Radar · Hacktoberfest 2023 Edition](https://github.blog/2023-10-30-release-radar-hack-23/) <kbd>2023-10-31T06:11+00:00</kbd></samp>
 - <samp>[The architecture of today&#8217;s LLM applications](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/) <kbd>2023-10-30T16:22+00:00</kbd></samp>
@@ -46,6 +47,5 @@
 - <samp>[5 tips for making your GitHub profile page accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible/) <kbd>2023-10-26T17:00+01:00</kbd></samp>
 - <samp>[Cybersecurity spotlight on bug bounty researcher @Ammar Askar](https://github.blog/2023-10-25-cybersecurity-spotlight-on-bug-bounty-researcher-ammar-askar/) <kbd>2023-10-25T17:00+01:00</kbd></samp>
 - <samp>[How to gain insight into your project contributors](https://github.blog/2023-10-23-how-to-gain-insight-into-your-project-contributors/) <kbd>2023-10-23T21:39+01:00</kbd></samp>
-- <samp>[ICYMI: improved C++ vulnerability coverage and CodeQL support for Lombok](https://github.blog/2023-10-19-icymi-improved-c-vulnerability-coverage-and-codeql-support-for-lombok/) <kbd>2023-10-19T20:14+01:00</kbd></samp>
 
 <!-- POSTS:END -->
