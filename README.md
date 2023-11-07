@@ -11,8 +11,8 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[firebase-session-storage-shopify-remix](https://github.com/0xlino/firebase-session-storage-shopify-remix) <kbd>2023-11-06T23:57+00:00</kbd></samp>
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-11-06T23:51+00:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-11-07T00:08+00:00</kbd></samp>
+- <samp>[firebase-session-storage-shopify-remix](https://github.com/0xlino/firebase-session-storage-shopify-remix) <kbd>2023-11-07T00:05+00:00</kbd></samp>
 - <samp>[web3-news-daily](https://github.com/0xlino/web3-news-daily) <kbd>2023-11-06T02:12+00:00</kbd></samp>
 - <samp>[trending](https://github.com/0xlino/trending) <kbd>2023-11-06T02:11+00:00</kbd></samp>
 - <samp>[snippets](https://github.com/0xlino/snippets) <kbd>2023-10-29T15:01+00:00</kbd></samp>
@@ -21,6 +21,13 @@
 - <samp>[shamir](https://github.com/0xlino/shamir) <kbd>2023-10-28T00:36+01:00</kbd></samp>
 - <samp>[action-pull-request-another-repo](https://github.com/0xlino/action-pull-request-another-repo) <kbd>2023-10-25T11:44+01:00</kbd></samp>
 - <samp>[royalmailv4api](https://github.com/0xlino/royalmailv4api) <kbd>2023-10-13T01:02+01:00</kbd></samp>
+- <samp>[typescript-actions](https://github.com/0xlino/typescript-actions) <kbd>2023-10-11T18:06+01:00</kbd></samp>
+- <samp>[serverless-gtasks-template](https://github.com/0xlino/serverless-gtasks-template) <kbd>2023-09-12T14:54+01:00</kbd></samp>
+- <samp>[vanity-addy](https://github.com/0xlino/vanity-addy) <kbd>2023-08-20T22:59+01:00</kbd></samp>
+- <samp>[learninpublic](https://github.com/0xlino/learninpublic) <kbd>2023-07-18T00:27+01:00</kbd></samp>
+- <samp>[trigger-workflow-and-wait](https://github.com/0xlino/trigger-workflow-and-wait) <kbd>2023-04-11T16:11+01:00</kbd></samp>
+- <samp>[backport](https://github.com/0xlino/backport) <kbd>2023-03-21T14:53+00:00</kbd></samp>
+- <samp>[firebase-deploy](https://github.com/0xlino/firebase-deploy) <kbd>2023-03-16T19:57+00:00</kbd></samp>
 
 <!-- PUSHES:END -->
 
