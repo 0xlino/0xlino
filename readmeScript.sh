@@ -8,7 +8,7 @@ readonly TIMEZONE=${TIMEZONE:-Europe/London}
 readonly pushes_graphql="
 {
   viewer {
-    repositories(first: 10, privacy: PUBLIC, orderBy: {field: PUSHED_AT, direction: DESC}, ownerAffiliations: [OWNER]) {
+    repositories(first: 20, privacy: PUBLIC, orderBy: {field: PUSHED_AT, direction: DESC}, ownerAffiliations: [OWNER]) {
       pageInfo {
         hasNextPage
         endCursor
