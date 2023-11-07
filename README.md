@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-11-07T07:15+00:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-11-07T07:22+00:00</kbd></samp>
 - <samp>[web3-news-daily](https://github.com/0xlino/web3-news-daily) <kbd>2023-11-07T02:11+00:00</kbd></samp>
 - <samp>[trending](https://github.com/0xlino/trending) <kbd>2023-11-07T02:09+00:00</kbd></samp>
 - <samp>[firebase-session-storage-shopify-remix](https://github.com/0xlino/firebase-session-storage-shopify-remix) <kbd>2023-11-07T00:05+00:00</kbd></samp>
