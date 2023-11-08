@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-11-08T16:59+00:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-11-08T17:07+00:00</kbd></samp>
 - <samp>[web3-news-daily](https://github.com/0xlino/web3-news-daily) <kbd>2023-11-08T02:11+00:00</kbd></samp>
 - <samp>[trending](https://github.com/0xlino/trending) <kbd>2023-11-08T02:09+00:00</kbd></samp>
 - <samp>[pygitbundle](https://github.com/0xlino/pygitbundle) <kbd>2023-11-08T01:36+00:00</kbd></samp>
@@ -45,6 +45,9 @@
 
 <!-- POSTS:START -->
 
+- <samp>[Universe 2023: Copilot transforms GitHub into the AI-powered developer platform](https://github.blog/2023-11-08-universe-2023-copilot-transforms-github-into-the-ai-powered-developer-platform/) <kbd>2023-11-08T17:10+00:00</kbd></samp>
+- <samp>[Octoverse: The state of open source and rise of AI in 2023](https://github.blog/2023-11-08-the-state-of-open-source-and-ai/) <kbd>2023-11-08T17:10+00:00</kbd></samp>
+- <samp>[Introducing AI-powered application security testing with GitHub Advanced Security](https://github.blog/2023-11-08-ai-powered-appsec/) <kbd>2023-11-08T17:09+00:00</kbd></samp>
 - <samp>[Leveraging AI to empower all developers at GitHub Universe 2023](https://github.blog/2023-11-02-leveraging-ai-to-empower-all-developers-at-github-universe-2023/) <kbd>2023-11-02T16:02+00:00</kbd></samp>
 - <samp>[Celebrating the first round of GitHub Accelerator and what&#8217;s next](https://github.blog/2023-11-02-celebrating-the-first-round-of-github-accelerator-and-whats-next/) <kbd>2023-11-02T14:00+00:00</kbd></samp>
 - <samp>[GitHub Game Off 2023 theme announcement](https://github.blog/2023-11-01-github-game-off-2023-theme-announcement/) <kbd>2023-11-01T20:36+00:00</kbd></samp>
@@ -52,8 +55,5 @@
 - <samp>[Introducing the GitHub transparency center](https://github.blog/2023-10-31-introducing-the-github-transparency-center/) <kbd>2023-10-31T19:22+00:00</kbd></samp>
 - <samp>[Release Radar · Hacktoberfest 2023 Edition](https://github.blog/2023-10-30-release-radar-hack-23/) <kbd>2023-10-31T06:11+00:00</kbd></samp>
 - <samp>[The architecture of today&#8217;s LLM applications](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/) <kbd>2023-10-30T16:22+00:00</kbd></samp>
-- <samp>[Hackable Halloween games MMXXIII](https://github.blog/2023-10-30-hackable-halloween-games-mmxxiii/) <kbd>2023-10-30T08:00+00:00</kbd></samp>
-- <samp>[Demystifying LLMs: How they can do things they weren&#8217;t trained to do](https://github.blog/2023-10-27-demystifying-llms-how-they-can-do-things-they-werent-trained-to-do/) <kbd>2023-10-27T17:57+01:00</kbd></samp>
-- <samp>[Developers are the first group to adopt AI at work. Here’s why that matters.](https://github.blog/2023-10-27-developers-are-the-first-group-to-adopt-ai-at-work-heres-why-that-matters/) <kbd>2023-10-27T16:00+01:00</kbd></samp>
 
 <!-- POSTS:END -->
