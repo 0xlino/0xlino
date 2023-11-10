@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-11-09T23:50+00:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-11-09T23:57+00:00</kbd></samp>
 - <samp>[web3-news-daily](https://github.com/0xlino/web3-news-daily) <kbd>2023-11-09T02:11+00:00</kbd></samp>
 - <samp>[trending](https://github.com/0xlino/trending) <kbd>2023-11-09T02:09+00:00</kbd></samp>
 - <samp>[pygitbundle](https://github.com/0xlino/pygitbundle) <kbd>2023-11-08T01:36+00:00</kbd></samp>
@@ -45,6 +45,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[Celebrating the GitHub Awards 2023 recipients 🎉](https://github.blog/2023-11-09-celebrating-the-github-awards-2023-recipients/) <kbd>2023-11-10T00:00+00:00</kbd></samp>
 - <samp>[Universe 2023: Copilot transforms GitHub into the AI-powered developer platform](https://github.blog/2023-11-08-universe-2023-copilot-transforms-github-into-the-ai-powered-developer-platform/) <kbd>2023-11-08T17:10+00:00</kbd></samp>
 - <samp>[Octoverse: The state of open source and rise of AI in 2023](https://github.blog/2023-11-08-the-state-of-open-source-and-ai/) <kbd>2023-11-08T17:10+00:00</kbd></samp>
 - <samp>[Introducing AI-powered application security testing with GitHub Advanced Security](https://github.blog/2023-11-08-ai-powered-appsec/) <kbd>2023-11-08T17:09+00:00</kbd></samp>
@@ -54,6 +55,5 @@
 - <samp>[Diversity, inclusion, and belonging at GitHub in 2023](https://github.blog/2023-11-01-diversity-inclusion-and-belonging-at-github-in-2023/) <kbd>2023-11-01T16:01+00:00</kbd></samp>
 - <samp>[Introducing the GitHub transparency center](https://github.blog/2023-10-31-introducing-the-github-transparency-center/) <kbd>2023-10-31T19:22+00:00</kbd></samp>
 - <samp>[Release Radar · Hacktoberfest 2023 Edition](https://github.blog/2023-10-30-release-radar-hack-23/) <kbd>2023-10-31T06:11+00:00</kbd></samp>
-- <samp>[The architecture of today&#8217;s LLM applications](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/) <kbd>2023-10-30T16:22+00:00</kbd></samp>
 
 <!-- POSTS:END -->
