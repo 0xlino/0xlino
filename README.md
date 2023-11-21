@@ -11,9 +11,9 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-11-21T01:42+00:00</kbd></samp>
-- <samp>[web3-news-daily](https://github.com/0xlino/web3-news-daily) <kbd>2023-11-20T02:15+00:00</kbd></samp>
-- <samp>[trending](https://github.com/0xlino/trending) <kbd>2023-11-20T02:12+00:00</kbd></samp>
+- <samp>[web3-news-daily](https://github.com/0xlino/web3-news-daily) <kbd>2023-11-21T02:16+00:00</kbd></samp>
+- <samp>[trending](https://github.com/0xlino/trending) <kbd>2023-11-21T02:13+00:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-11-21T02:06+00:00</kbd></samp>
 - <samp>[my-first-chrome-app](https://github.com/0xlino/my-first-chrome-app) <kbd>2023-11-14T23:21+00:00</kbd></samp>
 - <samp>[pygitbundle](https://github.com/0xlino/pygitbundle) <kbd>2023-11-08T01:36+00:00</kbd></samp>
 - <samp>[firebase-session-storage-shopify-remix](https://github.com/0xlino/firebase-session-storage-shopify-remix) <kbd>2023-11-07T00:05+00:00</kbd></samp>
