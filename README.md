@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-11-30T17:26+00:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-11-30T17:33+00:00</kbd></samp>
 - <samp>[web3-news-daily](https://github.com/0xlino/web3-news-daily) <kbd>2023-11-30T02:14+00:00</kbd></samp>
 - <samp>[trending](https://github.com/0xlino/trending) <kbd>2023-11-30T02:12+00:00</kbd></samp>
 - <samp>[utillie](https://github.com/0xlino/utillie) <kbd>2023-11-23T01:21+00:00</kbd></samp>
@@ -47,6 +47,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[From the pages of our Insider newsletter: How to use GitHub Copilot](https://github.blog/2023-11-30-from-the-pages-of-our-insider-newsletter-how-to-use-github-copilot/) <kbd>2023-11-30T17:35+00:00</kbd></samp>
 - <samp>[Securing our home labs: Home Assistant code review](https://github.blog/2023-11-30-securing-our-home-labs-home-assistant-code-review/) <kbd>2023-11-30T13:52+00:00</kbd></samp>
 - <samp>[For Good First Issue: Introducing a new way to contribute](https://github.blog/2023-11-21-for-good-first-issue-introducing-a-new-way-to-contribute/) <kbd>2023-11-21T17:00+00:00</kbd></samp>
 - <samp>[Highlights from Git 2.43](https://github.blog/2023-11-20-highlights-from-git-2-43/) <kbd>2023-11-20T18:07+00:00</kbd></samp>
@@ -56,6 +57,5 @@
 - <samp>[Celebrating the GitHub Awards 2023 recipients 🎉](https://github.blog/2023-11-09-celebrating-the-github-awards-2023-recipients/) <kbd>2023-11-10T00:00+00:00</kbd></samp>
 - <samp>[Universe 2023: Copilot transforms GitHub into the AI-powered developer platform](https://github.blog/2023-11-08-universe-2023-copilot-transforms-github-into-the-ai-powered-developer-platform/) <kbd>2023-11-08T17:10+00:00</kbd></samp>
 - <samp>[Octoverse: The state of open source and rise of AI in 2023](https://github.blog/2023-11-08-the-state-of-open-source-and-ai/) <kbd>2023-11-08T17:10+00:00</kbd></samp>
-- <samp>[Introducing AI-powered application security testing with GitHub Advanced Security](https://github.blog/2023-11-08-ai-powered-appsec/) <kbd>2023-11-08T17:09+00:00</kbd></samp>
 
 <!-- POSTS:END -->
