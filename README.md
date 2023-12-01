@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-12-01T16:15+00:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-12-01T16:26+00:00</kbd></samp>
 - <samp>[utillie](https://github.com/0xlino/utillie) <kbd>2023-12-01T14:28+00:00</kbd></samp>
 - <samp>[web3-news-daily](https://github.com/0xlino/web3-news-daily) <kbd>2023-12-01T02:17+00:00</kbd></samp>
 - <samp>[trending](https://github.com/0xlino/trending) <kbd>2023-12-01T02:14+00:00</kbd></samp>
@@ -47,7 +47,7 @@
 
 <!-- POSTS:START -->
 
-- <samp>[From the pages of our Insider newsletter: How to use GitHub Copilot](https://github.blog/2023-11-30-from-the-pages-of-our-insider-newsletter-how-to-use-github-copilot/) <kbd>2023-11-30T17:35+00:00</kbd></samp>
+- <samp>[Insider newsletter digest: How to use GitHub Copilot](https://github.blog/2023-11-30-from-the-pages-of-our-insider-newsletter-how-to-use-github-copilot/) <kbd>2023-11-30T17:35+00:00</kbd></samp>
 - <samp>[Securing our home labs: Home Assistant code review](https://github.blog/2023-11-30-securing-our-home-labs-home-assistant-code-review/) <kbd>2023-11-30T13:52+00:00</kbd></samp>
 - <samp>[For Good First Issue: Introducing a new way to contribute](https://github.blog/2023-11-21-for-good-first-issue-introducing-a-new-way-to-contribute/) <kbd>2023-11-21T17:00+00:00</kbd></samp>
 - <samp>[Highlights from Git 2.43](https://github.blog/2023-11-20-highlights-from-git-2-43/) <kbd>2023-11-20T18:07+00:00</kbd></samp>
