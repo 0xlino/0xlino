@@ -11,11 +11,11 @@
 
 <!-- PUSHES:START -->
 
+- <samp>[web3-news-daily](https://github.com/0xlino/web3-news-daily) <kbd>2023-12-02T02:11+00:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-12-02T02:09+00:00</kbd></samp>
 - <samp>[trending](https://github.com/0xlino/trending) <kbd>2023-12-02T02:09+00:00</kbd></samp>
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-12-02T01:55+00:00</kbd></samp>
 - <samp>[YeetRecovery](https://github.com/0xlino/YeetRecovery) <kbd>2023-12-02T00:54+00:00</kbd></samp>
 - <samp>[utillie](https://github.com/0xlino/utillie) <kbd>2023-12-01T14:28+00:00</kbd></samp>
-- <samp>[web3-news-daily](https://github.com/0xlino/web3-news-daily) <kbd>2023-12-01T02:17+00:00</kbd></samp>
 - <samp>[my-first-chrome-app](https://github.com/0xlino/my-first-chrome-app) <kbd>2023-11-14T23:21+00:00</kbd></samp>
 - <samp>[pygitbundle](https://github.com/0xlino/pygitbundle) <kbd>2023-11-08T01:36+00:00</kbd></samp>
 - <samp>[firebase-session-storage-shopify-remix](https://github.com/0xlino/firebase-session-storage-shopify-remix) <kbd>2023-11-07T00:05+00:00</kbd></samp>
