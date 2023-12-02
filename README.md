@@ -11,7 +11,8 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-12-02T00:22+00:00</kbd></samp>
+- <samp>[YeetRecovery](https://github.com/0xlino/YeetRecovery) <kbd>2023-12-02T00:54+00:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-12-02T00:41+00:00</kbd></samp>
 - <samp>[utillie](https://github.com/0xlino/utillie) <kbd>2023-12-01T14:28+00:00</kbd></samp>
 - <samp>[web3-news-daily](https://github.com/0xlino/web3-news-daily) <kbd>2023-12-01T02:17+00:00</kbd></samp>
 - <samp>[trending](https://github.com/0xlino/trending) <kbd>2023-12-01T02:14+00:00</kbd></samp>
@@ -30,7 +31,6 @@
 - <samp>[learninpublic](https://github.com/0xlino/learninpublic) <kbd>2023-07-18T00:27+01:00</kbd></samp>
 - <samp>[trigger-workflow-and-wait](https://github.com/0xlino/trigger-workflow-and-wait) <kbd>2023-04-11T16:11+01:00</kbd></samp>
 - <samp>[backport](https://github.com/0xlino/backport) <kbd>2023-03-21T14:53+00:00</kbd></samp>
-- <samp>[firebase-deploy](https://github.com/0xlino/firebase-deploy) <kbd>2023-03-16T19:57+00:00</kbd></samp>
 
 <!-- PUSHES:END -->
 
