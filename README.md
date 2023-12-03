@@ -11,9 +11,9 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-12-03T01:42+00:00</kbd></samp>
-- <samp>[web3-news-daily](https://github.com/0xlino/web3-news-daily) <kbd>2023-12-02T02:11+00:00</kbd></samp>
-- <samp>[trending](https://github.com/0xlino/trending) <kbd>2023-12-02T02:09+00:00</kbd></samp>
+- <samp>[web3-news-daily](https://github.com/0xlino/web3-news-daily) <kbd>2023-12-03T02:14+00:00</kbd></samp>
+- <samp>[trending](https://github.com/0xlino/trending) <kbd>2023-12-03T02:13+00:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-12-03T02:04+00:00</kbd></samp>
 - <samp>[YeetRecovery](https://github.com/0xlino/YeetRecovery) <kbd>2023-12-02T00:54+00:00</kbd></samp>
 - <samp>[utillie](https://github.com/0xlino/utillie) <kbd>2023-12-01T14:28+00:00</kbd></samp>
 - <samp>[my-first-chrome-app](https://github.com/0xlino/my-first-chrome-app) <kbd>2023-11-14T23:21+00:00</kbd></samp>
