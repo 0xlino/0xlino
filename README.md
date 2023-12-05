@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-12-05T22:24+00:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-12-05T22:31+00:00</kbd></samp>
 - <samp>[trending](https://github.com/0xlino/trending) <kbd>2023-12-05T02:12+00:00</kbd></samp>
 - <samp>[web3-news-daily](https://github.com/0xlino/web3-news-daily) <kbd>2023-12-03T02:14+00:00</kbd></samp>
 - <samp>[YeetRecovery](https://github.com/0xlino/YeetRecovery) <kbd>2023-12-02T00:54+00:00</kbd></samp>
@@ -47,6 +47,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[Addressing post-quantum cryptography with CodeQL](https://github.blog/2023-12-05-addressing-post-quantum-cryptography-with-codeql/) <kbd>2023-12-05T22:00+00:00</kbd></samp>
 - <samp>[The ultimate gifts for the developer in your life this holiday season](https://github.blog/2023-12-04-the-ultimate-gifts-for-the-developer-in-your-life-this-holiday-season/) <kbd>2023-12-04T16:56+00:00</kbd></samp>
 - <samp>[Insider newsletter digest: How to use GitHub Copilot](https://github.blog/2023-11-30-from-the-pages-of-our-insider-newsletter-how-to-use-github-copilot/) <kbd>2023-11-30T17:35+00:00</kbd></samp>
 - <samp>[Securing our home labs: Home Assistant code review](https://github.blog/2023-11-30-securing-our-home-labs-home-assistant-code-review/) <kbd>2023-11-30T13:52+00:00</kbd></samp>
@@ -56,6 +57,5 @@
 - <samp>[Universe&#8217;s key takeaway: Innovate better with AI-powered workflows on a single, unified platform](https://github.blog/2023-11-15-universes-key-takeaway-innovate-better-with-ai-powered-workflows-on-a-single-unified-platform/) <kbd>2023-11-15T21:25+00:00</kbd></samp>
 - <samp>[GitHub Availability Report: October 2023](https://github.blog/2023-11-13-github-availability-report-october-2023/) <kbd>2023-11-13T20:10+00:00</kbd></samp>
 - <samp>[Celebrating the GitHub Awards 2023 recipients 🎉](https://github.blog/2023-11-09-celebrating-the-github-awards-2023-recipients/) <kbd>2023-11-10T00:00+00:00</kbd></samp>
-- <samp>[Universe 2023: Copilot transforms GitHub into the AI-powered developer platform](https://github.blog/2023-11-08-universe-2023-copilot-transforms-github-into-the-ai-powered-developer-platform/) <kbd>2023-11-08T17:10+00:00</kbd></samp>
 
 <!-- POSTS:END -->
