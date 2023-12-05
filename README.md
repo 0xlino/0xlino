@@ -11,8 +11,8 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-12-05T01:40+00:00</kbd></samp>
-- <samp>[trending](https://github.com/0xlino/trending) <kbd>2023-12-04T02:12+00:00</kbd></samp>
+- <samp>[trending](https://github.com/0xlino/trending) <kbd>2023-12-05T02:12+00:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-12-05T02:03+00:00</kbd></samp>
 - <samp>[web3-news-daily](https://github.com/0xlino/web3-news-daily) <kbd>2023-12-03T02:14+00:00</kbd></samp>
 - <samp>[YeetRecovery](https://github.com/0xlino/YeetRecovery) <kbd>2023-12-02T00:54+00:00</kbd></samp>
 - <samp>[utillie](https://github.com/0xlino/utillie) <kbd>2023-12-01T14:28+00:00</kbd></samp>
