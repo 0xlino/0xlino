@@ -11,7 +11,7 @@
 
 <!-- PUSHES:START -->
 
-- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-12-06T17:23+00:00</kbd></samp>
+- <samp>[0xlino](https://github.com/0xlino/0xlino) <kbd>2023-12-06T17:30+00:00</kbd></samp>
 - <samp>[trending](https://github.com/0xlino/trending) <kbd>2023-12-06T02:12+00:00</kbd></samp>
 - <samp>[web3-news-daily](https://github.com/0xlino/web3-news-daily) <kbd>2023-12-03T02:14+00:00</kbd></samp>
 - <samp>[YeetRecovery](https://github.com/0xlino/YeetRecovery) <kbd>2023-12-02T00:54+00:00</kbd></samp>
@@ -47,6 +47,7 @@
 
 <!-- POSTS:START -->
 
+- <samp>[Cueing up a calculator: an introduction to exploit development on Linux](https://github.blog/2023-12-06-cueing-up-a-calculator-an-introduction-to-exploit-development-on-linux/) <kbd>2023-12-06T17:30+00:00</kbd></samp>
 - <samp>[How we’re experimenting with LLMs to evolve GitHub Copilot](https://github.blog/2023-12-06-how-were-experimenting-with-llms-to-evolve-github-copilot/) <kbd>2023-12-06T16:00+00:00</kbd></samp>
 - <samp>[GitHub Enterprise Server 3.11 is now generally available](https://github.blog/2023-12-05-github-enterprise-server-3-11-is-now-generally-available/) <kbd>2023-12-05T23:00+00:00</kbd></samp>
 - <samp>[Addressing post-quantum cryptography with CodeQL](https://github.blog/2023-12-05-addressing-post-quantum-cryptography-with-codeql/) <kbd>2023-12-05T22:00+00:00</kbd></samp>
@@ -56,6 +57,5 @@
 - <samp>[For Good First Issue: Introducing a new way to contribute](https://github.blog/2023-11-21-for-good-first-issue-introducing-a-new-way-to-contribute/) <kbd>2023-11-21T17:00+00:00</kbd></samp>
 - <samp>[Highlights from Git 2.43](https://github.blog/2023-11-20-highlights-from-git-2-43/) <kbd>2023-11-20T18:07+00:00</kbd></samp>
 - <samp>[Security best practices for authors of GitHub Actions](https://github.blog/2023-11-16-security-best-practices-for-authors-of-github-actions/) <kbd>2023-11-16T17:00+00:00</kbd></samp>
-- <samp>[Universe&#8217;s key takeaway: Innovate better with AI-powered workflows on a single, unified platform](https://github.blog/2023-11-15-universes-key-takeaway-innovate-better-with-ai-powered-workflows-on-a-single-unified-platform/) <kbd>2023-11-15T21:25+00:00</kbd></samp>
 
 <!-- POSTS:END -->
