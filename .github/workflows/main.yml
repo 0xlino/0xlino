@@ -16,14 +16,32 @@ jobs:
       - name: check it out
         uses: actions/checkout@v2
         
-      - name: Set timestamp
-        id: timestamp
-        run: echo "timestamp=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
+      # - name: Set timestamp
+      #   id: timestamp
+      #   run: echo "timestamp=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
 
-      - name: do the do do do do do lol
-        env:
-          GITHUB_TOKEN: ${{ secrets.LINO_TOKEN }}
-        run: ./readmeScript.sh
+      # - name: do the do do do do do lol
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.LINO_TOKEN }}
+      #   run: ./readmeScript.sh
+
+      #     - uses: actions/checkout@v2
+
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          
+      - name: Run Scraper
+        env: 
+          NEWS_TOKEN: ${{ secrets.NEWS_TOKEN }}
+        run: |
+          python fetch.py
 
       - name: add the things
         env:
