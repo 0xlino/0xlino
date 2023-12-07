@@ -1,4 +1,5 @@
 import requests
+import datetime
 
 def add_banner_to_top():
     with open('README.md', 'a') as f:
@@ -17,6 +18,7 @@ def get_github_public_repos_of_user(username):
         #     json.dump(sorted_data, f, indent=4)
 
         with open('README.md', 'a') as f:
+            timestampNow = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             f.write("### Public Repositories \n")
             for repo in sorted_data:
                 # f.write("- <samp>[" + repo['name'] + "](" + repo['html_url'] + ") <kbd>" + repo['updated_at'] + "</kbd></samp>\n")
@@ -28,6 +30,9 @@ def get_github_public_repos_of_user(username):
                 if repo['description'] is None: 
                     repo['description'] = 'No description provided'
                 f.write("- [" + repo['name'] + "](" + repo['html_url'] + ") - " + repo['description'] + "\n")
+
+            f.write("\n")
+            f.write("Timestamp: " + timestampNow + "\n")
     else:
         print('Error')
 
