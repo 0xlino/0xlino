@@ -1,8 +1,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=0xlino&theme=onedark"/>
 
 ### Public Repositories 
-- [web3-news-daily](https://github.com/0xlino/web3-news-daily) - Daily Web3 News Bot & BTW Craig Wright Is Not Satoshi. 
 - [trending](https://github.com/0xlino/trending) - Daily Github Trending Scrape
+- [web3-news-daily](https://github.com/0xlino/web3-news-daily) - Daily Web3 News Bot & BTW Craig Wright Is Not Satoshi. 
 - [YeetRecovery](https://github.com/0xlino/YeetRecovery) - This Script will help you recover a airdrop from your Yeeted / Compromised Wallet.
 - [utillie](https://github.com/0xlino/utillie) - Ben's Utility library system for Node & Browser - Misc stuff
 - [my-first-chrome-app](https://github.com/0xlino/my-first-chrome-app) - My first chrome app, I helps take a git url from the clipboard and import it to git. 
@@ -20,4 +20,4 @@
 - [backport](https://github.com/0xlino/backport) - A simple CLI tool that automates the process of backporting commits on a GitHub repo
 - [firebase-deploy](https://github.com/0xlino/firebase-deploy) - Deploy firebase functions github actions
 
-Timestamp: 2023-12-08 02:04:41
+Timestamp: 2023-12-08 02:19:58
