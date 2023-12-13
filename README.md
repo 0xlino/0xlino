@@ -1,7 +1,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=0xlino&theme=onedark"/>
 
 ### Public Repositories 
-- [directory-audit](https://github.com/0xlino/directory-audit) - No description provided
+- [directory-audit](https://github.com/0xlino/directory-audit) - Directory Auditing Tool & Filechain POC
 - [web3-news-daily](https://github.com/0xlino/web3-news-daily) - Daily Web3 News Bot & BTW Craig Wright Is Not Satoshi. 
 - [trending](https://github.com/0xlino/trending) - Daily Github Trending Scrape
 - [EVM](https://github.com/0xlino/EVM) - My Own Ethereum Virtual Machine Implementation.
@@ -22,4 +22,4 @@
 - [backport](https://github.com/0xlino/backport) - A simple CLI tool that automates the process of backporting commits on a GitHub repo
 - [firebase-deploy](https://github.com/0xlino/firebase-deploy) - Deploy firebase functions github actions
 
-Timestamp: 2023-12-13 18:48:10
+Timestamp: 2023-12-13 18:55:08
