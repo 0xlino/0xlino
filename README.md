@@ -1,6 +1,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=0xlino&theme=onedark"/>
 
 ### Public Repositories 
+- [todoey](https://github.com/0xlino/todoey) - Todoey! - Scripts to Analyse PR's for TODO's and Bugs
 - [web3-news-daily](https://github.com/0xlino/web3-news-daily) - Daily Web3 News Bot & BTW Craig Wright Is Not Satoshi. 
 - [trending](https://github.com/0xlino/trending) - Daily Github Trending Scrape
 - [supabased](https://github.com/0xlino/supabased) - A Python Helper for Supabase
@@ -23,4 +24,4 @@
 - [backport](https://github.com/0xlino/backport) - A simple CLI tool that automates the process of backporting commits on a GitHub repo
 - [firebase-deploy](https://github.com/0xlino/firebase-deploy) - Deploy firebase functions github actions
 
-Timestamp: 2023-12-16 15:27:17
+Timestamp: 2023-12-16 15:34:13
