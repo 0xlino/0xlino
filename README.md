@@ -1,6 +1,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=0xlino&theme=onedark"/>
 
 ### Public Repositories 
+- [my-first-chrome-app](https://github.com/0xlino/my-first-chrome-app) - My first chrome app, I helps take a git url from the clipboard and import it to git. 
 - [web3-news-daily](https://github.com/0xlino/web3-news-daily) - Daily Web3 News Bot & BTW Craig Wright Is Not Satoshi. 
 - [trending](https://github.com/0xlino/trending) - Daily Github Trending Scrape
 - [wallet-maker-py](https://github.com/0xlino/wallet-maker-py) - Python Ethereum Wallet Creator
@@ -11,7 +12,6 @@
 - [shamir](https://github.com/0xlino/shamir) - Shamir Secret Sharing implementation in Typescript
 - [YeetRecovery](https://github.com/0xlino/YeetRecovery) - This Script will help you recover a airdrop from your Yeeted / Compromised Wallet.
 - [utillie](https://github.com/0xlino/utillie) - Ben's Utility library system for Node & Browser - Misc stuff
-- [my-first-chrome-app](https://github.com/0xlino/my-first-chrome-app) - My first chrome app, I helps take a git url from the clipboard and import it to git. 
 - [pygitbundle](https://github.com/0xlino/pygitbundle) - Python Git Bundle Utilities 
 - [firebase-session-storage-shopify-remix](https://github.com/0xlino/firebase-session-storage-shopify-remix) - A Firebase Session Storage For Shopify Remix Apps
 - [snippets](https://github.com/0xlino/snippets) - Snippets I use that later will get moved to bigger things 
@@ -25,4 +25,4 @@
 - [backport](https://github.com/0xlino/backport) - A simple CLI tool that automates the process of backporting commits on a GitHub repo
 - [firebase-deploy](https://github.com/0xlino/firebase-deploy) - Deploy firebase functions github actions
 
-Timestamp: 2023-12-24 23:19:32
+Timestamp: 2023-12-24 23:26:19
