@@ -1,9 +1,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=0xlino&theme=onedark"/>
 
 ### Public Repositories 
-- [my-first-chrome-app](https://github.com/0xlino/my-first-chrome-app) - My first chrome app, I helps take a git url from the clipboard and import it to git. 
 - [web3-news-daily](https://github.com/0xlino/web3-news-daily) - Daily Web3 News Bot & BTW Craig Wright Is Not Satoshi. 
 - [trending](https://github.com/0xlino/trending) - Daily Github Trending Scrape
+- [my-first-chrome-app](https://github.com/0xlino/my-first-chrome-app) - My first chrome app, I helps take a git url from the clipboard and import it to git. 
 - [wallet-maker-py](https://github.com/0xlino/wallet-maker-py) - Python Ethereum Wallet Creator
 - [todoey](https://github.com/0xlino/todoey) - Todoey! - Scripts to Analyse PR's for TODO's and Bugs
 - [supabased](https://github.com/0xlino/supabased) - A Python Helper for Supabase
@@ -25,4 +25,4 @@
 - [backport](https://github.com/0xlino/backport) - A simple CLI tool that automates the process of backporting commits on a GitHub repo
 - [firebase-deploy](https://github.com/0xlino/firebase-deploy) - Deploy firebase functions github actions
 
-Timestamp: 2023-12-25 02:02:53
+Timestamp: 2023-12-25 02:18:12
