@@ -1,6 +1,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=0xlino&theme=onedark"/>
 
 ### Public Repositories 
+- [rekts](https://github.com/0xlino/rekts) - A Knowledgebase About Crypto Rekts
 - [Motivational-Posts-Generator](https://github.com/0xlino/Motivational-Posts-Generator) - Motivational Posts Generator Python
 - [web3-news-daily](https://github.com/0xlino/web3-news-daily) - Daily Web3 News Bot & BTW Craig Wright Is Not Satoshi. 
 - [trending](https://github.com/0xlino/trending) - Daily Github Trending Scrape
@@ -26,4 +27,4 @@
 - [backport](https://github.com/0xlino/backport) - A simple CLI tool that automates the process of backporting commits on a GitHub repo
 - [firebase-deploy](https://github.com/0xlino/firebase-deploy) - Deploy firebase functions github actions
 
-Timestamp: 2023-12-28 23:52:28
+Timestamp: 2023-12-28 23:59:02
