@@ -2,9 +2,9 @@
 
 ### Public Repositories 
 - [rekts](https://github.com/0xlino/rekts) - A Knowledgebase About Crypto Rekts
-- [Motivational-Posts-Generator](https://github.com/0xlino/Motivational-Posts-Generator) - Motivational Posts Generator Python
 - [web3-news-daily](https://github.com/0xlino/web3-news-daily) - Daily Web3 News Bot & BTW Craig Wright Is Not Satoshi. 
 - [trending](https://github.com/0xlino/trending) - Daily Github Trending Scrape
+- [Motivational-Posts-Generator](https://github.com/0xlino/Motivational-Posts-Generator) - Motivational Posts Generator Python
 - [my-first-chrome-app](https://github.com/0xlino/my-first-chrome-app) - My first chrome app, I helps take a git url from the clipboard and import it to git. 
 - [wallet-maker-py](https://github.com/0xlino/wallet-maker-py) - Python Ethereum Wallet Creator
 - [todoey](https://github.com/0xlino/todoey) - Todoey! - Scripts to Analyse PR's for TODO's and Bugs
@@ -27,4 +27,4 @@
 - [backport](https://github.com/0xlino/backport) - A simple CLI tool that automates the process of backporting commits on a GitHub repo
 - [firebase-deploy](https://github.com/0xlino/firebase-deploy) - Deploy firebase functions github actions
 
-Timestamp: 2023-12-29 02:02:08
+Timestamp: 2023-12-29 02:12:56
