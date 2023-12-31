@@ -4,6 +4,7 @@
 - [web3-news-daily](https://github.com/0xlino/web3-news-daily) - Daily Web3 News Bot & BTW Craig Wright Is Not Satoshi. 
 - [trending](https://github.com/0xlino/trending) - Daily Github Trending Scrape
 - [bitcoinovertime](https://github.com/0xlino/bitcoinovertime) - Bitcoin Is Officially the Best Performing Asset of all time, see the data. 
+- [DexScreenerClient](https://github.com/0xlino/DexScreenerClient) - Dex goes Brrrrrrr
 - [flask-credit-api-poc](https://github.com/0xlino/flask-credit-api-poc) - A Flask User API Key Credit Server POC
 - [crypto-rekts](https://github.com/0xlino/crypto-rekts) - A Knowledgebase About Crypto Rekts
 - [Motivational-Posts-Generator](https://github.com/0xlino/Motivational-Posts-Generator) - Motivational Posts Generator Python
@@ -29,4 +30,4 @@
 - [backport](https://github.com/0xlino/backport) - A simple CLI tool that automates the process of backporting commits on a GitHub repo
 - [firebase-deploy](https://github.com/0xlino/firebase-deploy) - Deploy firebase functions github actions
 
-Timestamp: 2023-12-31 12:09:06
+Timestamp: 2023-12-31 12:21:19
