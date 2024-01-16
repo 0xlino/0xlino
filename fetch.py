@@ -6,6 +6,8 @@ def add_banner_to_top():
         f.truncate(0)
         f.write("<img src=\"https://github-profile-trophy.vercel.app/?username=0xlino&theme=onedark\"/>\n")
         f.write("\n")
+        f.write("![](https://komarev.com/ghpvc/?username=0xlino&color=blue&style=flat)")
+        f.write("\n")
 
 def get_github_public_repos_of_user(username):            
     response = requests.get('https://api.github.com/users/' + username + '/repos')
