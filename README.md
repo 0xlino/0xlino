@@ -2,6 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=0xlino&color=blue&style=flat)
 ### Public Repositories 
+- [AI-2023](https://github.com/0xlino/AI-2023) - No description provided
 - [datalake](https://github.com/0xlino/datalake) - No description provided
 - [shopkeeper](https://github.com/0xlino/shopkeeper) - A CLI for managing settings and deployments of Shopify store themes.
 - [bitcoinovertime](https://github.com/0xlino/bitcoinovertime) - Bitcoin Is Officially the Best Performing Asset of all time, see the data.
@@ -22,7 +23,6 @@
 - [Foundations-Plugins](https://github.com/0xlino/Foundations-Plugins) - Foundations-Project-Plugins
 - [pygitbundle](https://github.com/0xlino/pygitbundle) - Python Git Bundle Utilities 
 - [firebase-session-storage-shopify-remix](https://github.com/0xlino/firebase-session-storage-shopify-remix) - A Firebase Session Storage For Shopify Remix Apps
-- [snippets](https://github.com/0xlino/snippets) - Snippets I use that later will get moved to bigger things 
 - [babymev](https://github.com/0xlino/babymev) - A Baby Version Of Giga Mev
 - [action-pull-request-another-repo](https://github.com/0xlino/action-pull-request-another-repo) - Action for create pull request in another repository
 - [royalmailv4api](https://github.com/0xlino/royalmailv4api) - Client for the V4 Royal Mail API
@@ -32,4 +32,4 @@
 - [firebase-deploy](https://github.com/0xlino/firebase-deploy) - Deploy firebase functions github actions
 - [Machine-Learning-Plugins](https://github.com/0xlino/Machine-Learning-Plugins) - Machine-Learning-Plugins
 
-Timestamp: 2024-01-16 02:33:52
+Timestamp: 2024-01-16 02:42:43
