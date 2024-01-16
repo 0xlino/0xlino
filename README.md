@@ -1,5 +1,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=0xlino&theme=onedark"/>
 
+![](https://komarev.com/ghpvc/?username=0xlino&color=blue&style=flat)
 ### Public Repositories 
 - [datalake](https://github.com/0xlino/datalake) - No description provided
 - [shopkeeper](https://github.com/0xlino/shopkeeper) - A CLI for managing settings and deployments of Shopify store themes.
@@ -31,4 +32,4 @@
 - [firebase-deploy](https://github.com/0xlino/firebase-deploy) - Deploy firebase functions github actions
 - [Machine-Learning-Plugins](https://github.com/0xlino/Machine-Learning-Plugins) - Machine-Learning-Plugins
 
-Timestamp: 2024-01-16 00:45:47
+Timestamp: 2024-01-16 00:52:11
