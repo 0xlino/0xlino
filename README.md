@@ -14,12 +14,12 @@
 - [crypto-rekts](https://github.com/0xlino/crypto-rekts) - A Knowledgebase About Crypto Rekts
 - [Motivational-Posts-Generator](https://github.com/0xlino/Motivational-Posts-Generator) - Motivational Posts Generator Python
 - [my-first-chrome-app](https://github.com/0xlino/my-first-chrome-app) - My first chrome app, I helps take a git url from the clipboard and import it to git. 
+- [Trading-Signals-Plugins](https://github.com/0xlino/Trading-Signals-Plugins) - Trading-Signals-Plugins
 - [todoey](https://github.com/0xlino/todoey) - Todoey! - Scripts to Analyse PR's for TODO's and Bugs
 - [supabased](https://github.com/0xlino/supabased) - A Python Helper for Supabase
 - [directory-audit](https://github.com/0xlino/directory-audit) - Directory Auditing Tool & Filechain POC
 - [EVM](https://github.com/0xlino/EVM) - My Own Ethereum Virtual Machine Implementation.
 - [shamir](https://github.com/0xlino/shamir) - Shamir Secret Sharing implementation in Typescript
-- [Data-Mining-Plugins](https://github.com/0xlino/Data-Mining-Plugins) - Data-Mining-Plugins
 - [pygitbundle](https://github.com/0xlino/pygitbundle) - Python Git Bundle Utilities 
 - [firebase-session-storage-shopify-remix](https://github.com/0xlino/firebase-session-storage-shopify-remix) - A Firebase Session Storage For Shopify Remix Apps
 - [snippets](https://github.com/0xlino/snippets) - Snippets I use that later will get moved to bigger things 
@@ -32,4 +32,4 @@
 - [backport](https://github.com/0xlino/backport) - A simple CLI tool that automates the process of backporting commits on a GitHub repo
 - [firebase-deploy](https://github.com/0xlino/firebase-deploy) - Deploy firebase functions github actions
 
-Timestamp: 2024-02-03 16:45:10
+Timestamp: 2024-02-03 16:51:57
