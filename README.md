@@ -32,11 +32,9 @@
 - [royalmailv4api](https://github.com/0xlino/royalmailv4api) - Client for the V4 Royal Mail API
 - [typescript-actions](https://github.com/0xlino/typescript-actions) - Typescript Actions
 - [serverless-gtasks-template](https://github.com/0xlino/serverless-gtasks-template) - A Simple Google Tasks Serverless Starter
-- [TensorFlow-Plugins](https://github.com/0xlino/TensorFlow-Plugins) - TensorFlow-Plugins
-- [Network-Plugins](https://github.com/0xlino/Network-Plugins) - Network-Plugins
 - [vanity-addy](https://github.com/0xlino/vanity-addy) - A tool to create a vanity ethereum address like 0x999 or 0x420
 - [trigger-workflow-and-wait](https://github.com/0xlino/trigger-workflow-and-wait) - Trigger a workflow in another (or same) repository and wait for the job to finish.
 - [backport](https://github.com/0xlino/backport) - A simple CLI tool that automates the process of backporting commits on a GitHub repo
 - [firebase-deploy](https://github.com/0xlino/firebase-deploy) - Deploy firebase functions github actions
 
-Timestamp: 2024-02-06 21:31:50
+Timestamp: 2024-02-06 21:38:32
