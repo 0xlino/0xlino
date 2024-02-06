@@ -10,7 +10,7 @@ def add_banner_to_top():
         f.write("\n")
 
 def get_github_public_repos_of_user(username):            
-    response = requests.get('https://api.github.com/users/' + username + '/repos')
+    response = requests.get('https://api.github.com/users/' + username + '/repos?per_page=100')
     if response.status_code == 200:
         data = response.json()
         sorted_data = sorted(data, key=lambda x: x.get("pushed_at", ""), reverse=True)
