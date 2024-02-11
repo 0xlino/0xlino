@@ -2,6 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=0xlino&color=blue&style=flat)
 ### Public Repositories 
+- [firebase-functions-routing-controllers](https://github.com/0xlino/firebase-functions-routing-controllers) - Express + Routing-Controllers on Firebase Functions
 - [web3-news-daily](https://github.com/0xlino/web3-news-daily) - Daily Web3 News Bot & BTW Craig Wright Is Not Satoshi. 
 - [trending](https://github.com/0xlino/trending) - Daily Github Trending Scrape
 - [express-htmx](https://github.com/0xlino/express-htmx) - A demo of using Express & HTMX to build a short links application
@@ -37,4 +38,4 @@
 - [backport](https://github.com/0xlino/backport) - A simple CLI tool that automates the process of backporting commits on a GitHub repo
 - [firebase-deploy](https://github.com/0xlino/firebase-deploy) - Deploy firebase functions github actions
 
-Timestamp: 2024-02-11 22:36:33
+Timestamp: 2024-02-11 22:43:03
