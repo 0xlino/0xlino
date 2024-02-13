@@ -2,6 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=0xlino&color=blue&style=flat)
 ### Public Repositories 
+- [ERC404Dividend](https://github.com/0xlino/ERC404Dividend) - ERC404 DIVIDEND token on Ethereum 
 - [web3-news-daily](https://github.com/0xlino/web3-news-daily) - Daily Web3 News Bot & BTW Craig Wright Is Not Satoshi. 
 - [trending](https://github.com/0xlino/trending) - Daily Github Trending Scrape
 - [firebase-functions-routing-controllers](https://github.com/0xlino/firebase-functions-routing-controllers) - Express + Routing-Controllers on Firebase Functions
@@ -38,4 +39,4 @@
 - [backport](https://github.com/0xlino/backport) - A simple CLI tool that automates the process of backporting commits on a GitHub repo
 - [firebase-deploy](https://github.com/0xlino/firebase-deploy) - Deploy firebase functions github actions
 
-Timestamp: 2024-02-12 23:56:36
+Timestamp: 2024-02-13 00:17:19
